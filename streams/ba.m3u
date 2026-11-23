@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MariaPlusVisionMedjugorje.ba@SD",María+Visión Medjugorje (720p)
+#EXTINF:-1 tvg-id="MariaPlusVisionMedjugorje.ba@SD" group-title="Bosnia and Herzegovina",María+Visión Medjugorje (720p)
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8
-#EXTINF:-1 tvg-id="NewsmaxBalkans.ba@SD",Newsmax Balkans (1080p)
+#EXTINF:-1 tvg-id="NewsmaxBalkans.ba@SD" group-title="Bosnia and Herzegovina",Newsmax Balkans (1080p)
 https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8
-#EXTINF:-1 tvg-id="RTRSTV.ba@SD",RTRS TV (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTRSTV.ba@SD" group-title="Bosnia and Herzegovina",RTRS TV (576p) [Not 24/7]
 https://uzivo.rtrs.tv/tv/live/index.m3u8
-#EXTINF:-1 tvg-id="RTVHB.ba@SD",RTV Herceg-Bosne (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="RTVHB.ba@SD" group-title="Bosnia and Herzegovina",RTV Herceg-Bosne (576p) [Not 24/7]
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8

@@ -1,33 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BOKTV.za@SD",BOKTV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="BOKTV.za@SD" group-title="South Africa",BOKTV (720p) [Not 24/7]
 https://livestream2.bokradio.co.za/hls/Bok5c.m3u8
-#EXTINF:-1 tvg-id="FaithAfrica.za@SD",Faith Africa (1080p)
+#EXTINF:-1 tvg-id="FaithAfrica.za@SD" group-title="South Africa",Faith Africa (1080p)
 https://faithnow-hls.secdn.net/faithnow-holland-channel/play/FaithAfrica.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HomebaseTV.za@SD",Homebase TV (480p)
+#EXTINF:-1 tvg-id="HomebaseTV.za@SD" group-title="South Africa",Homebase TV (480p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_022/Stream/playlist.m3u8
-#EXTINF:-1 tvg-id="HopeChannelAfrica.za@SD",Hope Channel Africa (1080p)
+#EXTINF:-1 tvg-id="HopeChannelAfrica.za@SD" group-title="South Africa",Hope Channel Africa (1080p)
 https://jstre.am/live/jsl:i1onRBELcGV.m3u8
-#EXTINF:-1 tvg-id="LN24SA.za@SD",LN24SA (1080p)
+#EXTINF:-1 tvg-id="LN24SA.za@SD" group-title="South Africa",LN24SA (1080p)
 https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="LoveworldSAT.ng@SD",LoveworldSAT (1080p)
+#EXTINF:-1 tvg-id="LoveworldSAT.ng@SD" group-title="South Africa",LoveworldSAT (1080p)
 https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8
-#EXTINF:-1 tvg-id="LoveworldSAT.ng@SD",LoveworldSAT
+#EXTINF:-1 tvg-id="LoveworldSAT.ng@SD" group-title="South Africa",LoveworldSAT
 https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="NuViewTV.za@SD",NuView TV (360p)
+#EXTINF:-1 tvg-id="NuViewTV.za@SD" group-title="South Africa",NuView TV (360p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u8
-#EXTINF:-1 tvg-id="ROVTV.za@SD",ROV TV (576p)
+#EXTINF:-1 tvg-id="ROVTV.za@SD" group-title="South Africa",ROV TV (576p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u8
-#EXTINF:-1 tvg-id="SABCLehae.za@SD",SABC Lehae (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="SABCLehae.za@SD" group-title="South Africa",SABC Lehae (1080p) [Geo-blocked]
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
-#EXTINF:-1 tvg-id="SABCNews.za@SD",SABC News (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="SABCNews.za@SD" group-title="South Africa",SABC News (720p) [Geo-blocked]
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
-#EXTINF:-1 tvg-id="WildEarth.za@SD",WildEarth (1080p)
+#EXTINF:-1 tvg-id="WildEarth.za@SD" group-title="South Africa",WildEarth (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
-#EXTINF:-1 tvg-id="WildEarth.za@SD",WildEarth (1080p)
+#EXTINF:-1 tvg-id="WildEarth.za@SD" group-title="South Africa",WildEarth (1080p)
 https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
-#EXTINF:-1 tvg-id="WildEarth.za@SD",WildEarth (1080p)
+#EXTINF:-1 tvg-id="WildEarth.za@SD" group-title="South Africa",WildEarth (1080p)
 https://wildearth-xumo.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="WildEarth.za@SD",WildEarth (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="WildEarth.za@SD" group-title="South Africa",WildEarth (1080p) [Geo-blocked]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="WildEarth.za@SD",WildEarth (1080p) [Geo-blocked]
+#EXTINF:-1 tvg-id="WildEarth.za@SD" group-title="South Africa",WildEarth (1080p) [Geo-blocked]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8

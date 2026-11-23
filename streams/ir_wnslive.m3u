@@ -1,71 +1,71 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AfraFilm.ir@SD",Afra Film
+#EXTINF:-1 tvg-id="AfraFilm.ir@SD" group-title="Iran | Wnslive",Afra Film
 https://afrafhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AraxTV.ir@SD",Arax TV
+#EXTINF:-1 tvg-id="AraxTV.ir@SD" group-title="Iran | Wnslive",Arax TV
 https://araxhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ArkoTV.ir@SD",Arko TV
+#EXTINF:-1 tvg-id="ArkoTV.ir@SD" group-title="Iran | Wnslive",Arko TV
 https://arkhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ArvanTV.ir@SD",Arvan TV
+#EXTINF:-1 tvg-id="ArvanTV.ir@SD" group-title="Iran | Wnslive",Arvan TV
 https://arvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AVASeries.ir@SD",AVA Series
+#EXTINF:-1 tvg-id="AVASeries.ir@SD" group-title="Iran | Wnslive",AVA Series
 https://avaserieshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="CafeFilm.ir@SD",Cafe Film
+#EXTINF:-1 tvg-id="CafeFilm.ir@SD" group-title="Iran | Wnslive",Cafe Film
 https://cafefhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ClassicTV.ir@SD",Classic TV
+#EXTINF:-1 tvg-id="ClassicTV.ir@SD" group-title="Iran | Wnslive",Classic TV
 https://clshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="DejTV.ir@HD",Dej TV
+#EXTINF:-1 tvg-id="DejTV.ir@HD" group-title="Iran | Wnslive",Dej TV
 https://rdejhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="FX1.ir@SD",FX TV 1
+#EXTINF:-1 tvg-id="FX1.ir@SD" group-title="Iran | Wnslive",FX TV 1
 https://fxtvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="FX2.ir@SD",FX TV 2
+#EXTINF:-1 tvg-id="FX2.ir@SD" group-title="Iran | Wnslive",FX TV 2
 https://toonixhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="GoldStar.ir@SD",Gold Star
+#EXTINF:-1 tvg-id="GoldStar.ir@SD" group-title="Iran | Wnslive",Gold Star
 https://moviethls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="GrandCinema.tr@SD",Grand Cinema
+#EXTINF:-1 tvg-id="GrandCinema.tr@SD" group-title="Iran | Wnslive",Grand Cinema
 https://gcinemahls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ICnet1.ca@SD",icnet 1
+#EXTINF:-1 tvg-id="ICnet1.ca@SD" group-title="Iran | Wnslive",icnet 1
 https://icnet1hls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ICnet2.ca@SD",icnet 2
+#EXTINF:-1 tvg-id="ICnet2.ca@SD" group-title="Iran | Wnslive",icnet 2
 https://icnet2hls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="icnet3.ca@SD",icnet 3
+#EXTINF:-1 tvg-id="icnet3.ca@SD" group-title="Iran | Wnslive",icnet 3
 https://ic3hls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="KalemehTV.uk@HD",Kalemeh TV
+#EXTINF:-1 tvg-id="KalemehTV.uk@HD" group-title="Iran | Wnslive",Kalemeh TV
 https://klmhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="KanalJadid.uk@SD",Kanal Jadid
+#EXTINF:-1 tvg-id="KanalJadid.uk@SD" group-title="Iran | Wnslive",Kanal Jadid
 https://kjhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="KomalaTV.se@SD",Komala TV
+#EXTINF:-1 tvg-id="KomalaTV.se@SD" group-title="Iran | Wnslive",Komala TV
 https://komhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="KurdChannel.iq@SD",Kurd Channel
+#EXTINF:-1 tvg-id="KurdChannel.iq@SD" group-title="Iran | Wnslive",Kurd Channel
 https://kurdchhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="MetaFilmTV.ir@SD",Meta Film TV
+#EXTINF:-1 tvg-id="MetaFilmTV.ir@SD" group-title="Iran | Wnslive",Meta Film TV
 https://metafilmhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="MohabatTV.us@HD",Mohabat TV
+#EXTINF:-1 tvg-id="MohabatTV.us@HD" group-title="Iran | Wnslive",Mohabat TV
 https://mohabathls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="MTC.us@SD",MTC TV
+#EXTINF:-1 tvg-id="MTC.us@SD" group-title="Iran | Wnslive",MTC TV
 https://mtchls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="OmideIranTV.us@SD",Omide Iran
+#EXTINF:-1 tvg-id="OmideIranTV.us@SD" group-title="Iran | Wnslive",Omide Iran
 https://oitnhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ParsTV.us@SD",Pars TV
+#EXTINF:-1 tvg-id="ParsTV.us@SD" group-title="Iran | Wnslive",Pars TV
 https://parshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PMC.ae@SD",PMC
+#EXTINF:-1 tvg-id="PMC.ae@SD" group-title="Iran | Wnslive",PMC
 https://pmchls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PMCRoyale.ae@SD",PMC Royale (1080p)
+#EXTINF:-1 tvg-id="PMCRoyale.ae@SD" group-title="Iran | Wnslive",PMC Royale (1080p)
 https://pmcrohls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Sat7Pars.cy@SD",Sat7 Pars
+#EXTINF:-1 tvg-id="Sat7Pars.cy@SD" group-title="Iran | Wnslive",Sat7 Pars
 https://sat7phls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="SetarehTV.uk@HD",Setareh TV
+#EXTINF:-1 tvg-id="SetarehTV.uk@HD" group-title="Iran | Wnslive",Setareh TV
 https://setarehhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Shabakeh7.us@SD",Shabakeh 7
+#EXTINF:-1 tvg-id="Shabakeh7.us@SD" group-title="Iran | Wnslive",Shabakeh 7
 https://sh7hls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="SL1.ir@SD",SL 1
+#EXTINF:-1 tvg-id="SL1.ir@SD" group-title="Iran | Wnslive",SL 1
 https://slonehls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="SL2.ir@SD",SL 2
+#EXTINF:-1 tvg-id="SL2.ir@SD" group-title="Iran | Wnslive",SL 2
 https://sltwohls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="T2TV.ir@SD",T2 TV
+#EXTINF:-1 tvg-id="T2TV.ir@SD" group-title="Iran | Wnslive",T2 TV
 https://t2hls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="TVITN.ir@SD",TV ITN
+#EXTINF:-1 tvg-id="TVITN.ir@SD" group-title="Iran | Wnslive",TV ITN
 https://itnhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="VoATVPersian.us@SD",VOA Persian
+#EXTINF:-1 tvg-id="VoATVPersian.us@SD" group-title="Iran | Wnslive",VOA Persian
 https://voaphls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="ZedTV.ir@HD",Zed TV
+#EXTINF:-1 tvg-id="ZedTV.ir@HD" group-title="Iran | Wnslive",Zed TV
 https://zedhls.wns.live/hls/stream.m3u8

@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ARCanal.pa@SD",A&R Canal Adventista (720p)
+#EXTINF:-1 tvg-id="ARCanal.pa@SD" group-title="Panama",A&R Canal Adventista (720p)
 http://51.222.9.192:3589/stream/play.m3u8
-#EXTINF:-1 tvg-id="CorazonTV.pa@SD",Corazon TV
+#EXTINF:-1 tvg-id="CorazonTV.pa@SD" group-title="Panama",Corazon TV
 https://sistemastr.tropicalmoonmedia.com/live/7FFCFEC3978B68D1A2ED0A38DE96AF76/12.m3u8
-#EXTINF:-1 tvg-id="Mas23TV.pa@SD",Mas23 TV
+#EXTINF:-1 tvg-id="Mas23TV.pa@SD" group-title="Panama",Mas23 TV
 https://movil.ejeserver.com/live/mas23tv.m3u8
-#EXTINF:-1 tvg-id="NexTVCanal21.pa@SD",Nex TV Canal 21
+#EXTINF:-1 tvg-id="NexTVCanal21.pa@SD" group-title="Panama",Nex TV Canal 21
 https://movil.ejeserver.com/live/nextv.m3u8
-#EXTINF:-1 tvg-id="RadioAncon.pa@SD",Radio Ancón (720p)
+#EXTINF:-1 tvg-id="RadioAncon.pa@SD" group-title="Panama",Radio Ancón (720p)
 https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
-#EXTINF:-1 tvg-id="SuperQPanama.pa@SD",Súper Q Panamá (1080p)
+#EXTINF:-1 tvg-id="SuperQPanama.pa@SD" group-title="Panama",Súper Q Panamá (1080p)
 https://vcp8.myplaytv.com:1936/superq/superq/playlist.m3u8
-#EXTINF:-1 tvg-id="Telemetro.pa@SD",Telemetro (720p)
+#EXTINF:-1 tvg-id="Telemetro.pa@SD" group-title="Panama",Telemetro (720p)
 http://181.78.121.15:8000/play/a001/index.m3u8
-#EXTINF:-1 tvg-id="TropiQ997FM.pa@SD",Tropi Q 99.7 FM (1080p)
+#EXTINF:-1 tvg-id="TropiQ997FM.pa@SD" group-title="Panama",Tropi Q 99.7 FM (1080p)
 https://www.streaming507.net:19360/videotropiq/videotropiq.m3u8
-#EXTINF:-1 tvg-id="TropicalMoonUrbanTV.pa@SD",Tropical Moon Urban TV [Not 24/7]
+#EXTINF:-1 tvg-id="TropicalMoonUrbanTV.pa@SD" group-title="Panama",Tropical Moon Urban TV [Not 24/7]
 https://sistemastr.tropicalmoonmedia.com/live/D8E123ACA054EF85B153C354A481A406/4.m3u8
-#EXTINF:-1 tvg-id="VisionLatina.pa@SD",Vision Latina (1080p)
+#EXTINF:-1 tvg-id="VisionLatina.pa@SD" group-title="Panama",Vision Latina (1080p)
 https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/64917431-2f51-0a46-d4d0-04d111b2393f/master.m3u8

@@ -1,107 +1,107 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AlJazeera.qa@Arabic",Al Jazeera
+#EXTINF:-1 tvg-id="AlJazeera.qa@Arabic" group-title="Slovakia | Antik",Al Jazeera
 https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8
-#EXTINF:-1 tvg-id="AlJazeera.qa@English",Al Jazeera English
+#EXTINF:-1 tvg-id="AlJazeera.qa@English" group-title="Slovakia | Antik",Al Jazeera English
 https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
-#EXTINF:-1 tvg-id="ArirangTV.kr@HD",Arirang TV HD
+#EXTINF:-1 tvg-id="ArirangTV.kr@HD" group-title="Slovakia | Antik",Arirang TV HD
 https://dash3.antik.sk/live/test_arirang/playlist.m3u8
-#EXTINF:-1 tvg-id="Armenia1.am@SD",Armenia 1
+#EXTINF:-1 tvg-id="Armenia1.am@SD" group-title="Slovakia | Antik",Armenia 1
 https://dash2.antik.sk/live/test_armenia/playlist.m3u8
-#EXTINF:-1 tvg-id="arte.de@HD",arte HD
+#EXTINF:-1 tvg-id="arte.de@HD" group-title="Slovakia | Antik",arte HD
 https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="BBCNews.uk@Europe",BBC News Europe
+#EXTINF:-1 tvg-id="BBCNews.uk@Europe" group-title="Slovakia | Antik",BBC News Europe
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV4Europe.cn@SD",CCTV-4 Europe
+#EXTINF:-1 tvg-id="CCTV4Europe.cn@SD" group-title="Slovakia | Antik",CCTV-4 Europe
 https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTN.cn@SD",CGTN
+#EXTINF:-1 tvg-id="CGTN.cn@SD" group-title="Slovakia | Antik",CGTN
 https://dash4.antik.sk/live/test_cgtn/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTNArabic.cn@SD",CGTN Arabic
+#EXTINF:-1 tvg-id="CGTNArabic.cn@SD" group-title="Slovakia | Antik",CGTN Arabic
 https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD",CGTN Documentary
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn@SD" group-title="Slovakia | Antik",CGTN Documentary
 https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTNFrench.cn@SD",CGTN French
+#EXTINF:-1 tvg-id="CGTNFrench.cn@SD" group-title="Slovakia | Antik",CGTN French
 https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTNRussian.cn@SD",CGTN Russian
+#EXTINF:-1 tvg-id="CGTNRussian.cn@SD" group-title="Slovakia | Antik",CGTN Russian
 https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTNSpanish.cn@SD",CGTN Spanish
+#EXTINF:-1 tvg-id="CGTNSpanish.cn@SD" group-title="Slovakia | Antik",CGTN Spanish
 https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="CT24.cz@SD",CT24
+#EXTINF:-1 tvg-id="CT24.cz@SD" group-title="Slovakia | Antik",CT24
 https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="EnglishClubTV.uk@SD",English Club TV
+#EXTINF:-1 tvg-id="EnglishClubTV.uk@SD" group-title="Slovakia | Antik",English Club TV
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
-#EXTINF:-1 tvg-id="EspresoTV.ua@SD",Espreso TV
+#EXTINF:-1 tvg-id="EspresoTV.ua@SD" group-title="Slovakia | Antik",Espreso TV
 https://dash4.antik.sk/live/test_espresso/playlist.m3u8
-#EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD",Euronews English HD
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD" group-title="Slovakia | Antik",Euronews English HD
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
-#EXTINF:-1 tvg-id="EWTN.de@SD",EWTN
+#EXTINF:-1 tvg-id="EWTN.de@SD" group-title="Slovakia | Antik",EWTN
 https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="France24.fr@French",France 24
+#EXTINF:-1 tvg-id="France24.fr@French" group-title="Slovakia | Antik",France 24
 https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
-#EXTINF:-1 tvg-id="France24.fr@English",France 24 English
+#EXTINF:-1 tvg-id="France24.fr@English" group-title="Slovakia | Antik",France 24 English
 https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8
-#EXTINF:-1 tvg-id="FREEDOM.ua@SD",FREEDOM
+#EXTINF:-1 tvg-id="FREEDOM.ua@SD" group-title="Slovakia | Antik",FREEDOM
 https://dash2.antik.sk/live/test_uatv/playlist.m3u8
-#EXTINF:-1 tvg-id="hrfernsehen.de@HD",hr-fernsehen HD
+#EXTINF:-1 tvg-id="hrfernsehen.de@HD" group-title="Slovakia | Antik",hr-fernsehen HD
 https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="kabeleins.de@SD",kabel eins
+#EXTINF:-1 tvg-id="kabeleins.de@SD" group-title="Slovakia | Antik",kabel eins
 https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="KiKA.de@HD",KiKA HD
+#EXTINF:-1 tvg-id="KiKA.de@HD" group-title="Slovakia | Antik",KiKA HD
 https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="MDRFernsehen.de@Thuringen",MDR Fernsehen Thuringen
+#EXTINF:-1 tvg-id="MDRFernsehen.de@Thuringen" group-title="Slovakia | Antik",MDR Fernsehen Thuringen
 https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="NDRFernsehenInternational.de@SD",NDR Fernsehen International
+#EXTINF:-1 tvg-id="NDRFernsehenInternational.de@SD" group-title="Slovakia | Antik",NDR Fernsehen International
 https://dash3.antik.sk/live/test_ndr_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="NewsmaxTV.us@SD",Newsmax TV
+#EXTINF:-1 tvg-id="NewsmaxTV.us@SD" group-title="Slovakia | Antik",Newsmax TV
 https://dash3.antik.sk/live/test_newsmax_avc/playlist.m3u8
-#EXTINF:-1 tvg-id="NZTV.sk@SD",NZTV
+#EXTINF:-1 tvg-id="NZTV.sk@SD" group-title="Slovakia | Antik",NZTV
 https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8
-#EXTINF:-1 tvg-id="PolarTV.cz@SD",Polar TV
+#EXTINF:-1 tvg-id="PolarTV.cz@SD" group-title="Slovakia | Antik",Polar TV
 https://dash4.antik.sk/live/test_polar_tv_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="ProSieben.de@SD",ProSieben (1080p)
+#EXTINF:-1 tvg-id="ProSieben.de@SD" group-title="Slovakia | Antik",ProSieben (1080p)
 https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai1.it@SD",Rai 1 (720p)
+#EXTINF:-1 tvg-id="Rai1.it@SD" group-title="Slovakia | Antik",Rai 1 (720p)
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="Rai3.it@HD",Rai 3 (720p)
+#EXTINF:-1 tvg-id="Rai3.it@HD" group-title="Slovakia | Antik",Rai 3 (720p)
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="rbbFernsehen.de@SD",rbb Fernsehen
+#EXTINF:-1 tvg-id="rbbFernsehen.de@SD" group-title="Slovakia | Antik",rbb Fernsehen
 https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="RegioTV.sk@SD",Regio TV
+#EXTINF:-1 tvg-id="RegioTV.sk@SD" group-title="Slovakia | Antik",Regio TV
 https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SAT1Gold.de@SD",SAT.1 Gold (576p)
+#EXTINF:-1 tvg-id="SAT1Gold.de@SD" group-title="Slovakia | Antik",SAT.1 Gold (576p)
 https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="SilkWay.kz@SD",Silk Way
+#EXTINF:-1 tvg-id="SilkWay.kz@SD" group-title="Slovakia | Antik",Silk Way
 https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="sixx.de@SD",sixx
+#EXTINF:-1 tvg-id="sixx.de@SD" group-title="Slovakia | Antik",sixx
 https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.tr@HD",TRT World HD
+#EXTINF:-1 tvg-id="TRTWorld.tr@HD" group-title="Slovakia | Antik",TRT World HD
 https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="TV8.sk@SD",TV8
+#EXTINF:-1 tvg-id="TV8.sk@SD" group-title="Slovakia | Antik",TV8
 https://dash3.antik.sk/live/test_osem/playlist.m3u8
-#EXTINF:-1 tvg-id="TV9.sk@SD",TV9
+#EXTINF:-1 tvg-id="TV9.sk@SD" group-title="Slovakia | Antik",TV9
 https://dash4.antik.sk/live/test_tv9/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCentral.sk@SD",TV Central
+#EXTINF:-1 tvg-id="TVCentral.sk@SD" group-title="Slovakia | Antik",TV Central
 https://dash4.antik.sk/live/test_central/playlist.m3u8
-#EXTINF:-1 tvg-id="TVLocAll.sk@SD",TV LocAll
+#EXTINF:-1 tvg-id="TVLocAll.sk@SD" group-title="Slovakia | Antik",TV LocAll
 https://dash3.antik.sk/live/test_locall/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMistral.sk@SD",TV Mistral
+#EXTINF:-1 tvg-id="TVMistral.sk@SD" group-title="Slovakia | Antik",TV Mistral
 https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVNitricka.sk@SD",TV Nitricka
+#EXTINF:-1 tvg-id="TVNitricka.sk@SD" group-title="Slovakia | Antik",TV Nitricka
 https://dash4.antik.sk/live/test_nitricka/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSLO1.si@HD",TV SLO 1 HD
+#EXTINF:-1 tvg-id="TVSLO1.si@HD" group-title="Slovakia | Antik",TV SLO 1 HD
 https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSLO2.si@HD",TV SLO 2 HD
+#EXTINF:-1 tvg-id="TVSLO2.si@HD" group-title="Slovakia | Antik",TV SLO 2 HD
 https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="TVVita.sk@SD",TV Vita
+#EXTINF:-1 tvg-id="TVVita.sk@SD" group-title="Slovakia | Antik",TV Vita
 https://dash3.antik.sk/live/test_vita/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPInfo.pl@SD",TVP Info
+#EXTINF:-1 tvg-id="TVPInfo.pl@SD" group-title="Slovakia | Antik",TVP Info
 https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPPolonia.pl@SD",TVP Polonia
+#EXTINF:-1 tvg-id="TVPPolonia.pl@SD" group-title="Slovakia | Antik",TVP Polonia
 https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPWorld.pl@SD",TVP World
+#EXTINF:-1 tvg-id="TVPWorld.pl@SD" group-title="Slovakia | Antik",TVP World
 https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
-#EXTINF:-1 tvg-id="WDRFernsehen.de@Koln",WDR Fernsehen
+#EXTINF:-1 tvg-id="WDRFernsehen.de@Koln" group-title="Slovakia | Antik",WDR Fernsehen
 https://dash3.antik.sk/live/test_wdr_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="ZapadoslovenskaTV.sk@SD",Zapadoslovenska TV
+#EXTINF:-1 tvg-id="ZapadoslovenskaTV.sk@SD" group-title="Slovakia | Antik",Zapadoslovenska TV
 https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8
-#EXTINF:-1 tvg-id="CurrentTimeTV.cz@SD",Настоящее время
+#EXTINF:-1 tvg-id="CurrentTimeTV.cz@SD" group-title="Slovakia | Antik",Настоящее время
 https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8

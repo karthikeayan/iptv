@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="",douyu19
+#EXTINF:-1 tvg-id="" group-title="China | 112114",douyu19
 http://epg.112114.xyz/douyu/747764
-#EXTINF:-1 tvg-id="",欧美大片1
+#EXTINF:-1 tvg-id="" group-title="China | 112114",欧美大片1
 http://epg.112114.xyz/douyu/20415
-#EXTINF:-1 tvg-id="",欧美大片2
+#EXTINF:-1 tvg-id="" group-title="China | 112114",欧美大片2
 http://epg.112114.xyz/douyu/2793084

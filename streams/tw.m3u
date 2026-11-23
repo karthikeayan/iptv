@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BeautifulLifeTV.tw@SD",Beautiful Life TV (720p)
+#EXTINF:-1 tvg-id="BeautifulLifeTV.tw@SD" group-title="Taiwan",Beautiful Life TV (720p)
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
-#EXTINF:-1 tvg-id="CGNTVChinese.tw@SD",CGNTV Chinese (1080p)
+#EXTINF:-1 tvg-id="CGNTVChinese.tw@SD" group-title="Taiwan",CGNTV Chinese (1080p)
 https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
-#EXTINF:-1 tvg-id="DiscoveryAsiaTaiwan.tw@SD",Discovery Asia Taiwan (1080p)
+#EXTINF:-1 tvg-id="DiscoveryAsiaTaiwan.tw@SD" group-title="Taiwan",Discovery Asia Taiwan (1080p)
 http://125.227.210.55:1004/VideoInput/play.ts
-#EXTINF:-1 tvg-id="GoodTV.tw@SD",GOOD TV CH1 綜合台 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="GoodTV.tw@SD" group-title="Taiwan",GOOD TV CH1 綜合台 (720p) [Not 24/7]
 https://live.streamingfast.net/osmflivech1.m3u8
-#EXTINF:-1 tvg-id="Good2.tw@SD",GOOD TV CH2 真理台 (720p)
+#EXTINF:-1 tvg-id="Good2.tw@SD" group-title="Taiwan",GOOD TV CH2 真理台 (720p)
 https://live.streamingfast.net/osmflivech2.m3u8
-#EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw@SD",Taiwan Indigenous TV (720p)
+#EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw@SD" group-title="Taiwan",Taiwan Indigenous TV (720p)
 https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1 tvg-id="TVBSAsia.tw@SD",TVBS Asia (1080p)
+#EXTINF:-1 tvg-id="TVBSAsia.tw@SD" group-title="Taiwan",TVBS Asia (1080p)
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1 tvg-id="WXTV.tw@SD",唯心電視 (480p)
+#EXTINF:-1 tvg-id="WXTV.tw@SD" group-title="Taiwan",唯心電視 (480p)
 https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8

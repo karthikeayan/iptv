@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ATGLive.se@SD",ATG Live (720p)
+#EXTINF:-1 tvg-id="ATGLive.se@SD" group-title="Sweden",ATG Live (720p)
 https://kanal75xto-llhls.akamaized.net/live/Data/atg-kanal-15-02a-rr/HLS-Legacy-HL/atg-kanal-15-02a-rr.m3u8
-#EXTINF:-1 tvg-id="DiTV.se@SD",Di TV (1080p)
+#EXTINF:-1 tvg-id="DiTV.se@SD" group-title="Sweden",Di TV (1080p)
 https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx4/playlist.m3u8
-#EXTINF:-1 tvg-id="ExpressenTV.se@SD",Expressen TV (1080p)
+#EXTINF:-1 tvg-id="ExpressenTV.se@SD" group-title="Sweden",Expressen TV (1080p)
 https://cdn0-03837-liveedge0.dna.ip-only.net/03837-liveedge0/smil:03837-tx2/playlist.m3u8
-#EXTINF:-1 tvg-id="MiracleChannel.se@SD",Miracle TV (1080p)
+#EXTINF:-1 tvg-id="MiracleChannel.se@SD" group-title="Sweden",Miracle TV (1080p)
 https://live.miracleonline.org/hls/miracle1.m3u8
-#EXTINF:-1 tvg-id="MissionAsia.au@SD",Mission Asia (1080p)
+#EXTINF:-1 tvg-id="MissionAsia.au@SD" group-title="Sweden",Mission Asia (1080p)
 https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8

@@ -1,51 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="5Live.il@SD",5Live (1080p)
+#EXTINF:-1 tvg-id="5Live.il@SD" group-title="Israel",5Live (1080p)
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="5Max.il@SD",5Max (1080p)
+#EXTINF:-1 tvg-id="5Max.il@SD" group-title="Israel",5Max (1080p)
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_max/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="5Sport.il@SD",5Sport
+#EXTINF:-1 tvg-id="5Sport.il@SD" group-title="Israel",5Sport
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="5Sport4K.il@SD",5Sport 4K (1080p)
+#EXTINF:-1 tvg-id="5Sport4K.il@SD" group-title="Israel",5Sport 4K (1080p)
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="ArutzHaYeladim.il@SD",Arutz HaYeladim (720p)
+#EXTINF:-1 tvg-id="ArutzHaYeladim.il@SD" group-title="Israel",Arutz HaYeladim (720p)
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/kids_channel/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel16.il@SD",Channel 16 (1080p)
+#EXTINF:-1 tvg-id="Channel16.il@SD" group-title="Israel",Channel 16 (1080p)
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/channel16/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel16.il@SD",Channel 16
+#EXTINF:-1 tvg-id="Channel16.il@SD" group-title="Israel",Channel 16
 https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="ComedyChannel.il@SD",Comedy Channel (1080p)
+#EXTINF:-1 tvg-id="ComedyChannel.il@SD" group-title="Israel",Comedy Channel (1080p)
 https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8
-#EXTINF:-1 tvg-id="Foody.il@SD",Foody (1080p)
+#EXTINF:-1 tvg-id="Foody.il@SD" group-title="Israel",Foody (1080p)
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/foody/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="HalaTV.il@SD",Hala TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="HalaTV.il@SD" group-title="Israel",Hala TV (1080p) [Not 24/7]
 https://stream.panet.com/edge/halaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="Hidabroot.il@SD",Hidabroot (1080p)
+#EXTINF:-1 tvg-id="Hidabroot.il@SD" group-title="Israel",Hidabroot (1080p)
 https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
-#EXTINF:-1 tvg-id="i24NEWSArabic.il@SD",i24NEWS Arabic (1080p)
+#EXTINF:-1 tvg-id="i24NEWSArabic.il@SD" group-title="Israel",i24NEWS Arabic (1080p)
 https://hlspackager.akamaized.net/live/DB/i24_ARABIC/HLS/i24_ARABIC.m3u8
-#EXTINF:-1 tvg-id="i24NEWSArabic.il@SD",i24NEWS Arabic (1080p)
+#EXTINF:-1 tvg-id="i24NEWSArabic.il@SD" group-title="Israel",i24NEWS Arabic (1080p)
 https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il@SD",i24NEWS English World (1080p)
+#EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il@SD" group-title="Israel",i24NEWS English World (1080p)
 https://hlspackager.akamaized.net/live/DB/i24_ENGLISH/HLS/i24_ENGLISH.m3u8
-#EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il@SD",i24NEWS English World (1080p)
+#EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il@SD" group-title="Israel",i24NEWS English World (1080p)
 https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="i24NEWSFrench.il@SD",i24NEWS French (1080p)
+#EXTINF:-1 tvg-id="i24NEWSFrench.il@SD" group-title="Israel",i24NEWS French (1080p)
 https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="i24NEWSHebrew.il@SD",I24 News Hebrew (1080p)
+#EXTINF:-1 tvg-id="i24NEWSHebrew.il@SD" group-title="Israel",I24 News Hebrew (1080p)
 https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 tvg-id="KabbalahforthePeopleIsrael.il@SD",Kabbalah for the People (Israel) (504p) [Not 24/7]
+#EXTINF:-1 tvg-id="KabbalahforthePeopleIsrael.il@SD" group-title="Israel",Kabbalah for the People (Israel) (504p) [Not 24/7]
 https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
-#EXTINF:-1 tvg-id="Now14.il@SD",Now 14 (1080p)
+#EXTINF:-1 tvg-id="Now14.il@SD" group-title="Israel",Now 14 (1080p)
 https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="OneEdge.il@SD",One Edge (1080p)
+#EXTINF:-1 tvg-id="OneEdge.il@SD" group-title="Israel",One Edge (1080p)
 https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_edge/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="RealityChannel.il@SD",Reality Channel
+#EXTINF:-1 tvg-id="RealityChannel.il@SD" group-title="Israel",Reality Channel
 https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8
-#EXTINF:-1 tvg-id="Channel13.il@SD",Reshet 13 (720p)
+#EXTINF:-1 tvg-id="Channel13.il@SD" group-title="Israel",Reshet 13 (720p)
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-#EXTINF:-1 tvg-id="ShelanuTV.il@SD",Shelanu TV (720p)
+#EXTINF:-1 tvg-id="ShelanuTV.il@SD" group-title="Israel",Shelanu TV (720p)
 https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
-#EXTINF:-1 tvg-id="TheIsraeliNetwork.il@SD",The Israeli Network (540p)
+#EXTINF:-1 tvg-id="TheIsraeliNetwork.il@SD" group-title="Israel",The Israeli Network (540p)
 https://r.eu.cdn-redge.media/livehls/oeu/mt/live/the_israeli_network/live.livx/playlist.m3u8
-#EXTINF:-1 tvg-id="VacationChannel.il@SD",Vacation Channel
+#EXTINF:-1 tvg-id="VacationChannel.il@SD" group-title="Israel",Vacation Channel
 https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8

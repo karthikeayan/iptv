@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TheCowboyChannelCanada.ca@SD",Cowboy Channel (1080p)
+#EXTINF:-1 tvg-id="TheCowboyChannelCanada.ca@SD" group-title="India | Distro",Cowboy Channel (1080p)
 https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
-#EXTINF:-1 tvg-id="DaystarTV.us@SD",Daystar TV (1080p)
+#EXTINF:-1 tvg-id="DaystarTV.us@SD" group-title="India | Distro",Daystar TV (1080p)
 https://live-mcl.cdn01.net/smarttv/48vy43564/playlist.m3u8
-#EXTINF:-1 tvg-id="",FloRacing 24/7 (1080p)
+#EXTINF:-1 tvg-id="" group-title="India | Distro",FloRacing 24/7 (1080p)
 https://amg02278-amg02278c1-distrotv-us-7534.playouts.now.amagi.tv/playlist/amg02278-flosports-floracing24x7-distrotvus/playlist.m3u8
-#EXTINF:-1 tvg-id="LoneStar.us@US",Lone Star (1080p)
+#EXTINF:-1 tvg-id="LoneStar.us@US" group-title="India | Distro",Lone Star (1080p)
 https://cineverse.g-mana.live/media/901011e7-9149-48cb-aabc-9218760e54fe/master.m3u8

@@ -1,27 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Channel12.ru@SD",12 канал (1080p)
+#EXTINF:-1 tvg-id="Channel12.ru@SD" group-title="Russia | Bonustv",12 канал (1080p)
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel12.ru@SD",12 канал (1080p)
+#EXTINF:-1 tvg-id="Channel12.ru@SD" group-title="Russia | Bonustv",12 канал (1080p)
 https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
-#EXTINF:-1 tvg-id="Zvezda.ru@HD",Zvezda HD (1080p)
+#EXTINF:-1 tvg-id="Zvezda.ru@HD" group-title="Russia | Bonustv",Zvezda HD (1080p)
 https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
-#EXTINF:-1 tvg-id="ZvezdaPlus.ru@HD",Zvezda Plus HD (1080p)
+#EXTINF:-1 tvg-id="ZvezdaPlus.ru@HD" group-title="Russia | Bonustv",Zvezda Plus HD (1080p)
 http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
-#EXTINF:-1 tvg-id="Arkhyz24.ru@SD",Архыз 24 (1080p)
+#EXTINF:-1 tvg-id="Arkhyz24.ru@SD" group-title="Russia | Bonustv",Архыз 24 (1080p)
 https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
-#EXTINF:-1 tvg-id="BST.ru@SD",БСТ (Башкирское спутниковое телевидение) (576p)
+#EXTINF:-1 tvg-id="BST.ru@SD" group-title="Russia | Bonustv",БСТ (Башкирское спутниковое телевидение) (576p)
 https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
-#EXTINF:-1 tvg-id="Ingushetia.ru@SD",Ингушетия ТВ (1080p)
+#EXTINF:-1 tvg-id="Ingushetia.ru@SD" group-title="Russia | Bonustv",Ингушетия ТВ (1080p)
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
-#EXTINF:-1 tvg-id="KrikTV.ru@SD",КРИК-ТВ (Екатеринбург) (1080p)
+#EXTINF:-1 tvg-id="KrikTV.ru@SD" group-title="Russia | Bonustv",КРИК-ТВ (Екатеринбург) (1080p)
 http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
-#EXTINF:-1 tvg-id="Prosveshchenie.ru@SD",Просвещение (540p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Prosveshchenie.ru@SD" group-title="Russia | Bonustv",Просвещение (540p) [Geo-blocked]
 https://cdn-01.bonus-tv.ru/prosveschenie_edge/playlist.m3u8
-#EXTINF:-1 tvg-id="RadostMoya.ru@SD",Радость моя (576p)
+#EXTINF:-1 tvg-id="RadostMoya.ru@SD" group-title="Russia | Bonustv",Радость моя (576p)
 https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
-#EXTINF:-1 tvg-id="StranaFM.ru@SD",Страна ФМ (720p)
+#EXTINF:-1 tvg-id="StranaFM.ru@SD" group-title="Russia | Bonustv",Страна ФМ (720p)
 https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TNVPlanet.ru@SD",ТНВ-Планета (Казань) (576p)
+#EXTINF:-1 tvg-id="TNVPlanet.ru@SD" group-title="Russia | Bonustv",ТНВ-Планета (Казань) (576p)
 https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
-#EXTINF:-1 tvg-id="ShansonTV.ru@SD",Шансон ТВ (512p)
+#EXTINF:-1 tvg-id="ShansonTV.ru@SD" group-title="Russia | Bonustv",Шансон ТВ (512p)
 https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8

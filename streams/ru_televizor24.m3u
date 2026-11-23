@@ -1,99 +1,99 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Channel5.ru@SD",5 Канал (576p)
+#EXTINF:-1 tvg-id="Channel5.ru@SD" group-title="Russia | Televizor24",5 Канал (576p)
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/8.m3u8
-#EXTINF:-1 tvg-id="RTDocumentary.ru@Russian",RT Documentary Russian (720p)
+#EXTINF:-1 tvg-id="RTDocumentary.ru@Russian" group-title="Russia | Televizor24",RT Documentary Russian (720p)
 https://streaming.thestream.cyou/live/554.m3u8
-#EXTINF:-1 tvg-id="Domkino.ru@SD",Дом Кино (576p)
+#EXTINF:-1 tvg-id="Domkino.ru@SD" group-title="Russia | Televizor24",Дом Кино (576p)
 https://streaming.thestream.cyou/live/44.m3u8
-#EXTINF:-1 tvg-id="Domashniy.ru@SD",Домашний (576p)
+#EXTINF:-1 tvg-id="Domashniy.ru@SD" group-title="Russia | Televizor24",Домашний (576p)
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/17.m3u8
-#EXTINF:-1 tvg-id="ZaTV.ru@SD",За!ТВ (576p)
+#EXTINF:-1 tvg-id="ZaTV.ru@SD" group-title="Russia | Televizor24",За!ТВ (576p)
 https://streaming.televizor-24-tochka.ru/live/25.m3u8
-#EXTINF:-1 tvg-id="Zvezda.ru@SD",Звезда (576p)
+#EXTINF:-1 tvg-id="Zvezda.ru@SD" group-title="Russia | Televizor24",Звезда (576p)
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/21.m3u8
-#EXTINF:-1 tvg-id="Zvezda.ru@SD",Звезда (576p)
+#EXTINF:-1 tvg-id="Zvezda.ru@SD" group-title="Russia | Televizor24",Звезда (576p)
 https://streaming.televizor-24-tochka.ru/live/748.m3u8
-#EXTINF:-1 tvg-id="Carousel.ru@SD",Карусель (576p)
+#EXTINF:-1 tvg-id="Carousel.ru@SD" group-title="Russia | Televizor24",Карусель (576p)
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/11.m3u8
-#EXTINF:-1 tvg-id="Carousel.ru@SD",Карусель (576p)
+#EXTINF:-1 tvg-id="Carousel.ru@SD" group-title="Russia | Televizor24",Карусель (576p)
 https://streaming.televizor-24-tochka.ru/live/232.m3u8
-#EXTINF:-1 tvg-id="Crimea24.ru@SD",Крым 24 (576p)
+#EXTINF:-1 tvg-id="Crimea24.ru@SD" group-title="Russia | Televizor24",Крым 24 (576p)
 https://streaming.televizor-24-tochka.ru/live/28.m3u8
-#EXTINF:-1 tvg-id="Lugansk24.ua@SD",Луганск 24 (576p)
+#EXTINF:-1 tvg-id="Lugansk24.ua@SD" group-title="Russia | Televizor24",Луганск 24 (576p)
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
-#EXTINF:-1 tvg-id="Mir.ru@SD",МИР (576p)
+#EXTINF:-1 tvg-id="Mir.ru@SD" group-title="Russia | Televizor24",МИР (576p)
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/22.m3u8
-#EXTINF:-1 tvg-id="MuzTV.ru@SD",МузТВ (576p)
+#EXTINF:-1 tvg-id="MuzTV.ru@SD" group-title="Russia | Televizor24",МузТВ (576p)
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/20.m3u8
-#EXTINF:-1 tvg-id="MuzTV.ru@SD",МузТВ (576p)
+#EXTINF:-1 tvg-id="MuzTV.ru@SD" group-title="Russia | Televizor24",МузТВ (576p)
 https://streaming.televizor-24-tochka.ru/live/618.m3u8
-#EXTINF:-1 tvg-id="NTV.ru@SD",НТВ (576p)
+#EXTINF:-1 tvg-id="NTV.ru@SD" group-title="Russia | Televizor24",НТВ (576p)
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/7.m3u8
-#EXTINF:-1 tvg-id="NTVMir.ru@SD",НТВ Мир (576p)
+#EXTINF:-1 tvg-id="NTVMir.ru@SD" group-title="Russia | Televizor24",НТВ Мир (576p)
 https://streaming.thestream.cyou/live/213.m3u8
-#EXTINF:-1 tvg-id="ChannelOne.ru@SD",Первый канал (576p)
+#EXTINF:-1 tvg-id="ChannelOne.ru@SD" group-title="Russia | Televizor24",Первый канал (576p)
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/4.m3u8
-#EXTINF:-1 tvg-id="ChannelOne.ru@Europe",Первый канал Европа (576p)
+#EXTINF:-1 tvg-id="ChannelOne.ru@Europe" group-title="Russia | Televizor24",Первый канал Европа (576p)
 https://streaming.thestream.cyou/live/210.m3u8
-#EXTINF:-1 tvg-id="PervyyRespublikanskiy.ru@SD",Первый Республиканский (576p)
+#EXTINF:-1 tvg-id="PervyyRespublikanskiy.ru@SD" group-title="Russia | Televizor24",Первый Республиканский (576p)
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
-#EXTINF:-1 tvg-id="Pobeda.ru@SD",Победа (576p)
+#EXTINF:-1 tvg-id="Pobeda.ru@SD" group-title="Russia | Televizor24",Победа (576p)
 https://streaming.thestream.cyou/live/43.m3u8
-#EXTINF:-1 tvg-id="Friday.ru@SD",Пятница! (576p)
+#EXTINF:-1 tvg-id="Friday.ru@SD" group-title="Russia | Televizor24",Пятница! (576p)
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/19.m3u8
-#EXTINF:-1 tvg-id="Russia1.ru@SD",Россия 1 (576p)
+#EXTINF:-1 tvg-id="Russia1.ru@SD" group-title="Russia | Televizor24",Россия 1 (576p)
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/5.m3u8
-#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (576p)
+#EXTINF:-1 tvg-id="Russia24.ru@SD" group-title="Russia | Televizor24",Россия 24 (576p)
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/10.m3u8
-#EXTINF:-1 tvg-id="Russia24.ru@SD",Россия 24 (576p)
+#EXTINF:-1 tvg-id="Russia24.ru@SD" group-title="Russia | Televizor24",Россия 24 (576p)
 https://streaming.televizor-24-tochka.ru/live/30.m3u8
-#EXTINF:-1 tvg-id="RussiaK.ru@SD",Россия К (576p)
+#EXTINF:-1 tvg-id="RussiaK.ru@SD" group-title="Russia | Televizor24",Россия К (576p)
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/9.m3u8
-#EXTINF:-1 tvg-id="RTRPlaneta.ru@Asia",Россия-РТР (576p)
+#EXTINF:-1 tvg-id="RTRPlaneta.ru@Asia" group-title="Russia | Televizor24",Россия-РТР (576p)
 https://streaming.televizor-24-tochka.ru/live/211.m3u8
-#EXTINF:-1 tvg-id="STS.ru@SD",СТС (576p)
+#EXTINF:-1 tvg-id="STS.ru@SD" group-title="Russia | Televizor24",СТС (576p)
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/16.m3u8
-#EXTINF:-1 tvg-id="STS.ru@SD",СТС (576p)
+#EXTINF:-1 tvg-id="STS.ru@SD" group-title="Russia | Televizor24",СТС (576p)
 https://streaming.televizor-24-tochka.ru/live/296.m3u8
-#EXTINF:-1 tvg-id="Tavriya.ru@SD",Таврия (576p)
+#EXTINF:-1 tvg-id="Tavriya.ru@SD" group-title="Russia | Televizor24",Таврия (576p)
 https://streaming.televizor-24-tochka.ru/live/24.m3u8
-#EXTINF:-1 tvg-id="TV3.ru@SD",ТВ3 (576p)
+#EXTINF:-1 tvg-id="TV3.ru@SD" group-title="Russia | Televizor24",ТВ3 (576p)
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/18.m3u8
-#EXTINF:-1 tvg-id="TVCentr.ru@SD",ТВ Центр (576p)
+#EXTINF:-1 tvg-id="TVCentr.ru@SD" group-title="Russia | Televizor24",ТВ Центр (576p)
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/13.m3u8
-#EXTINF:-1 tvg-id="TNT.ru@SD",ТНТ (576p)
+#EXTINF:-1 tvg-id="TNT.ru@SD" group-title="Russia | Televizor24",ТНТ (576p)
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
 https://streaming.televizor-24-tochka.ru/live/23.m3u8
-#EXTINF:-1 tvg-id="TNT.ru@SD",ТНТ (576p)
+#EXTINF:-1 tvg-id="TNT.ru@SD" group-title="Russia | Televizor24",ТНТ (576p)
 https://streaming.televizor-24-tochka.ru/live/38.m3u8

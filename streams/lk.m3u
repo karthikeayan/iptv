@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="HiruTV.lk@SD",Hiru TV (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="HiruTV.lk@SD" group-title="Sri Lanka",Hiru TV (360p) [Not 24/7]
 https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
-#EXTINF:-1 tvg-id="ImaiTV.lk@SD",Imai TV (576i)
+#EXTINF:-1 tvg-id="ImaiTV.lk@SD" group-title="Sri Lanka",Imai TV (576i)
 https://jalworldiptv.vercel.app/iptv/imaitv/playlist.m3u8
-#EXTINF:-1 tvg-id="JayaTV.lk@SD",Jaya TV (1080p)
+#EXTINF:-1 tvg-id="JayaTV.lk@SD" group-title="Sri Lanka",Jaya TV (1080p)
 https://live.jayatv.lk/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Rupavahini.lk@SD",Rupavahini (720p)
+#EXTINF:-1 tvg-id="Rupavahini.lk@SD" group-title="Sri Lanka",Rupavahini (720p)
 https://rpn.bozztv.com/slrclive/slrc/slrclive/index.m3u8
-#EXTINF:-1 tvg-id="SiyathaTV.lk@SD",Siyatha TV (576p)
+#EXTINF:-1 tvg-id="SiyathaTV.lk@SD" group-title="Sri Lanka",Siyatha TV (576p)
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
-#EXTINF:-1 tvg-id="TalentTV.lk@HD",Talent TV (480p)
+#EXTINF:-1 tvg-id="TalentTV.lk@HD" group-title="Sri Lanka",Talent TV (480p)
 https://cast.talenttv.lk/hls/mcrlo1ygwpu8x4bj/index.m3u8
-#EXTINF:-1 tvg-id="VerbumTV.lk@SD",Verbum TV (1080p)
+#EXTINF:-1 tvg-id="VerbumTV.lk@SD" group-title="Sri Lanka",Verbum TV (1080p)
 https://video-eu1.streamerr.co/hls/scb80244b91/live.m3u8

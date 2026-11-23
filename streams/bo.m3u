@@ -1,162 +1,162 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AbyaYalaTV.bo@SD",Abya Yala TV (720p)
+#EXTINF:-1 tvg-id="AbyaYalaTV.bo@SD" group-title="Bolivia",Abya Yala TV (720p)
 http://190.181.61.93:8000/play/a00m/index.m3u8
-#EXTINF:-1 tvg-id="AmitelTV.bo@SD",Amitel TV (720p)
+#EXTINF:-1 tvg-id="AmitelTV.bo@SD" group-title="Bolivia",Amitel TV (720p)
 https://stv2.boliviaplay.com.bo/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AsiesmiPuebloTV.bo@SD",Asi es mi Pueblo TV (720p)
+#EXTINF:-1 tvg-id="AsiesmiPuebloTV.bo@SD" group-title="Bolivia",Asi es mi Pueblo TV (720p)
 http://190.181.61.93:8000/play/a00g/index.m3u8
-#EXTINF:-1 tvg-id="",ATB La Paz
+#EXTINF:-1 tvg-id="" group-title="Bolivia",ATB La Paz
 https://stream.atb.com.bo/live/daniel/index.m3u8
-#EXTINF:-1 tvg-id="BoliviaTV.bo@SD",Bolivia TV (1080p)
+#EXTINF:-1 tvg-id="BoliviaTV.bo@SD" group-title="Bolivia",Bolivia TV (1080p)
 http://190.181.61.93:8000/play/a001/index.m3u8
-#EXTINF:-1 tvg-id="BoliviaTV.bo@SD",Bolivia TV (576p)
+#EXTINF:-1 tvg-id="BoliviaTV.bo@SD" group-title="Bolivia",Bolivia TV (576p)
 http://190.181.61.93:8000/play/a00u/index.m3u8
-#EXTINF:-1 tvg-id="Bolivision.bo@LaPaz",Bolivision (1080p)
+#EXTINF:-1 tvg-id="Bolivision.bo@LaPaz" group-title="Bolivia",Bolivision (1080p)
 http://190.181.61.93:8000/play/a00j/index.m3u8
-#EXTINF:-1 tvg-id="CadenaA.bo@LaPaz",Cadena A (576p)
+#EXTINF:-1 tvg-id="CadenaA.bo@LaPaz" group-title="Bolivia",Cadena A (576p)
 http://190.181.61.93:8000/play/a00k/index.m3u8
-#EXTINF:-1 tvg-id="CadenaA.bo@SD",Cadena A (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="CadenaA.bo@SD" group-title="Bolivia",Cadena A (720p) [Not 24/7]
 https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
-#EXTINF:-1 tvg-id="CanalGuiaABE.bo@SD",Canal Guia ABE (1080p)
+#EXTINF:-1 tvg-id="CanalGuiaABE.bo@SD" group-title="Bolivia",Canal Guia ABE (1080p)
 http://190.181.61.93:8000/play/a00q/index.m3u8
-#EXTINF:-1 tvg-id="CineramaTelevision.bo@SD",Cinerama Television (720p)
+#EXTINF:-1 tvg-id="CineramaTelevision.bo@SD" group-title="Bolivia",Cinerama Television (720p)
 https://tv.cineramatvbo.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="CTV.bo@SD",CTV (1080p)
+#EXTINF:-1 tvg-id="CTV.bo@SD" group-title="Bolivia",CTV (1080p)
 http://190.181.61.93:8000/play/a005/index.m3u8
-#EXTINF:-1 tvg-id="CTV.bo@SD",CTV (720p)
+#EXTINF:-1 tvg-id="CTV.bo@SD" group-title="Bolivia",CTV (720p)
 https://streaming.ctvbolivia.com/app/ctv/ts:master.m3u8
-#EXTINF:-1 tvg-id="CVC.bo@SD",CVC (1080p)
+#EXTINF:-1 tvg-id="CVC.bo@SD" group-title="Bolivia",CVC (1080p)
 http://190.181.61.93:8000/play/a00p/index.m3u8
-#EXTINF:-1 tvg-id="DeltaTV.bo@SD",Delta TV
+#EXTINF:-1 tvg-id="DeltaTV.bo@SD" group-title="Bolivia",Delta TV
 https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="DmodaChannel.bo@SD",Dmoda Channel (1080p)
+#EXTINF:-1 tvg-id="DmodaChannel.bo@SD" group-title="Bolivia",Dmoda Channel (1080p)
 https://master.tucableip.com/dmoda/index.m3u8
-#EXTINF:-1 tvg-id="ELDEBER.bo@SD",EL DEBER (1080p)
+#EXTINF:-1 tvg-id="ELDEBER.bo@SD" group-title="Bolivia",EL DEBER (1080p)
 https://master.tucableip.com/eldebertv/index.m3u8
-#EXTINF:-1 tvg-id="EnVivoTV.bo@SD",En Vivo TV (1080p)
+#EXTINF:-1 tvg-id="EnVivoTV.bo@SD" group-title="Bolivia",En Vivo TV (1080p)
 http://190.181.61.93:8000/play/1520/index.m3u8
-#EXTINF:-1 tvg-id="FAPTV.bo@SD",FAP TV (720p)
+#EXTINF:-1 tvg-id="FAPTV.bo@SD" group-title="Bolivia",FAP TV (720p)
 https://edge.enhdtv.com/faptv/index.m3u8
-#EXTINF:-1 tvg-id="Gigavision.bo@SantaCruz",Gigavision (1080p)
+#EXTINF:-1 tvg-id="Gigavision.bo@SantaCruz" group-title="Bolivia",Gigavision (1080p)
 http://158.172.155.130:8000/play/a0e7/index.m3u8
-#EXTINF:-1 tvg-id="Gigavision.bo@LaPaz",Gigavision La Paz (1080p)
+#EXTINF:-1 tvg-id="Gigavision.bo@LaPaz" group-title="Bolivia",Gigavision La Paz (1080p)
 http://190.181.61.93:8000/play/a00i/index.m3u8
-#EXTINF:-1 tvg-id="GoGoPlayTV.bo@SD",GoGoPlayTV (720p)
+#EXTINF:-1 tvg-id="GoGoPlayTV.bo@SD" group-title="Bolivia",GoGoPlayTV (720p)
 http://190.181.61.93:8000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-id="LaExitosaTVRiberalta.bo@SD",La Exitosa TV Riberalta (720p)
+#EXTINF:-1 tvg-id="LaExitosaTVRiberalta.bo@SD" group-title="Bolivia",La Exitosa TV Riberalta (720p)
 https://ares.disfrutaenlared.com:1936/exitosa/exitosa/playlist.m3u8
-#EXTINF:-1 tvg-id="PalenqueTV.bo@SD",Palenque TV (576p)
+#EXTINF:-1 tvg-id="PalenqueTV.bo@SD" group-title="Bolivia",Palenque TV (576p)
 http://190.181.61.93:8000/play/a009/index.m3u8
-#EXTINF:-1 tvg-id="PalenqueTV.bo@SD",Palenque TV
+#EXTINF:-1 tvg-id="PalenqueTV.bo@SD" group-title="Bolivia",Palenque TV
 https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
-#EXTINF:-1 tvg-id="PIMEDIATV.bo@SD",PI MEDIA TV (1080p)
+#EXTINF:-1 tvg-id="PIMEDIATV.bo@SD" group-title="Bolivia",PI MEDIA TV (1080p)
 https://183.giatvcdn.com/ssh101/ssh101/bolivianews/playlist.m3u8
-#EXTINF:-1 tvg-id="PlusTLT.bo@SD",Plus TLT (720p)
+#EXTINF:-1 tvg-id="PlusTLT.bo@SD" group-title="Bolivia",Plus TLT (720p)
 http://190.181.61.93:8000/play/a007/index.m3u8
-#EXTINF:-1 tvg-id="PoderdeDiosTV.bo@SD",Poder de Dios TV (720p)
+#EXTINF:-1 tvg-id="PoderdeDiosTV.bo@SD" group-title="Bolivia",Poder de Dios TV (720p)
 https://s3.tvdatta.com:3846/live/poderdedioslive.m3u8
-#EXTINF:-1 tvg-id="RATelevision.bo@SD",RA Television (720p)
+#EXTINF:-1 tvg-id="RATelevision.bo@SD" group-title="Bolivia",RA Television (720p)
 https://183.giatvcdn.com/ssh101/ssh101/ratvbol/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioKollasuyo.bo@SD",Radio Kollasuyo (720p)
+#EXTINF:-1 tvg-id="RadioKollasuyo.bo@SD" group-title="Bolivia",Radio Kollasuyo (720p)
 https://azura2.bitstreaming.net/hls/kollasuyo3/live.m3u8
-#EXTINF:-1 tvg-id="RadioMegaTVAmazonia.bo@SD",Radio Mega TV Amazonia (720p)
+#EXTINF:-1 tvg-id="RadioMegaTVAmazonia.bo@SD" group-title="Bolivia",Radio Mega TV Amazonia (720p)
 https://ares.disfrutaenlared.com:1936/megatv/megatv/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioTVMega.bo@SD",Radio TV Mega (720p)
+#EXTINF:-1 tvg-id="RadioTVMega.bo@SD" group-title="Bolivia",Radio TV Mega (720p)
 https://183.giatvcdn.com/ssh101/ssh101/radiotvmega26/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioUniversitariaSanAndres.bo@SD",Radio Universitaria San Andres (720p)
+#EXTINF:-1 tvg-id="RadioUniversitariaSanAndres.bo@SD" group-title="Bolivia",Radio Universitaria San Andres (720p)
 https://edge.enhdtv.com/8054/index.m3u8
-#EXTINF:-1 tvg-id="RedADvenirTV.bo@SD",Red ADvenir TV (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="RedADvenirTV.bo@SD" group-title="Bolivia",Red ADvenir TV (360p) [Not 24/7]
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
-#EXTINF:-1 tvg-id="RedAmericaTV.bo@SD",Red America TV (1080p)
+#EXTINF:-1 tvg-id="RedAmericaTV.bo@SD" group-title="Bolivia",Red America TV (1080p)
 https://edge.enhdtv.com/redamerica/index.m3u8
-#EXTINF:-1 tvg-id="RedTVShop.bo@SD",Red TV Shop (720p)
+#EXTINF:-1 tvg-id="RedTVShop.bo@SD" group-title="Bolivia",Red TV Shop (720p)
 https://master.tucableip.com/redtvshop/index.m3u8
-#EXTINF:-1 tvg-id="RedUno.bo@SantaCruz",Red Uno (1080p)
+#EXTINF:-1 tvg-id="RedUno.bo@SantaCruz" group-title="Bolivia",Red Uno (1080p)
 http://190.181.61.93:8000/play/a002/index.m3u8
-#EXTINF:-1 tvg-id="RedUno.bo@LaPaz",Red Uno La Paz (1080p)
+#EXTINF:-1 tvg-id="RedUno.bo@LaPaz" group-title="Bolivia",Red Uno La Paz (1080p)
 http://190.181.61.93:8000/play/a003/index.m3u8
-#EXTINF:-1 tvg-id="",Red Uno Santa Cruz (1080p)
+#EXTINF:-1 tvg-id="" group-title="Bolivia",Red Uno Santa Cruz (1080p)
 http://190.181.18.82:4111/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="RTP.bo@SD",RTP (1080p)
+#EXTINF:-1 tvg-id="RTP.bo@SD" group-title="Bolivia",RTP (1080p)
 http://190.181.61.93:8000/play/a00n/index.m3u8
-#EXTINF:-1 tvg-id="RTP.bo@SD",RTP (576p)
+#EXTINF:-1 tvg-id="RTP.bo@SD" group-title="Bolivia",RTP (576p)
 https://rtp.noxun.net/hls720/stream3.m3u8
-#EXTINF:-1 tvg-id="RTP.bo@SD",RTP (480p)
+#EXTINF:-1 tvg-id="RTP.bo@SD" group-title="Bolivia",RTP (480p)
 https://rtp.noxun.net/hls480/stream2.m3u8
-#EXTINF:-1 tvg-id="RTP.bo@SD",RTP
+#EXTINF:-1 tvg-id="RTP.bo@SD" group-title="Bolivia",RTP
 https://rtp.noxun.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="SABCOVision.bo@SD",SABCO Vision (720p)
+#EXTINF:-1 tvg-id="SABCOVision.bo@SD" group-title="Bolivia",SABCO Vision (720p)
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
-#EXTINF:-1 tvg-id="SigloXXITV.bo@SD",Siglo XXI TV (576p)
+#EXTINF:-1 tvg-id="SigloXXITV.bo@SD" group-title="Bolivia",Siglo XXI TV (576p)
 http://190.181.61.93:8000/play/a00b/index.m3u8
-#EXTINF:-1 tvg-id="SPCCanal15.bo@SD",SPC Canal 15 (1080p)
+#EXTINF:-1 tvg-id="SPCCanal15.bo@SD" group-title="Bolivia",SPC Canal 15 (1080p)
 https://183.giatvcdn.com/giatv/giatv-1762252013SPC/1762252013SPC/playlist.m3u8
-#EXTINF:-1 tvg-id="SucremantaTV.bo@SD",Sucremanta TV (1080p)
+#EXTINF:-1 tvg-id="SucremantaTV.bo@SD" group-title="Bolivia",Sucremanta TV (1080p)
 https://183.giatvcdn.com/ssh101/ssh101/ok2026/playlist.m3u8
-#EXTINF:-1 tvg-id="TELE6.bo@SD",TELE 6 (1080p)
+#EXTINF:-1 tvg-id="TELE6.bo@SD" group-title="Bolivia",TELE 6 (1080p)
 https://183.giatvcdn.com/ssh101/ssh101/tele6/playlist.m3u8
-#EXTINF:-1 tvg-id="TLEstrella.bo@SD",TL Estrella (720p)
+#EXTINF:-1 tvg-id="TLEstrella.bo@SD" group-title="Bolivia",TL Estrella (720p)
 http://190.181.61.93:8000/play/a004/index.m3u8
-#EXTINF:-1 tvg-id="TvCarigso.bo@SD",Tv Carigso (720p)
+#EXTINF:-1 tvg-id="TvCarigso.bo@SD" group-title="Bolivia",Tv Carigso (720p)
 https://183.giatvcdn.com/ssh101/ssh101/carigsotv2026/playlist.m3u8
-#EXTINF:-1 tvg-id="TVLatina.bo@SD",TV Latina (1080p)
+#EXTINF:-1 tvg-id="TVLatina.bo@SD" group-title="Bolivia",TV Latina (1080p)
 https://castv10.plugstreaming.com:19360/redtv/redtv.m3u8
-#EXTINF:-1 tvg-id="TVLatina.bo@SD",TV Latina (1080p)
+#EXTINF:-1 tvg-id="TVLatina.bo@SD" group-title="Bolivia",TV Latina (1080p)
 https://master.tucableip.com/tvlatina/index.m3u8
-#EXTINF:-1 tvg-id="TVOFF.bo@SD",TV OFF (1080p)
+#EXTINF:-1 tvg-id="TVOFF.bo@SD" group-title="Bolivia",TV OFF (1080p)
 https://edge.enhdtv.com/tvoff/index.m3u8
-#EXTINF:-1 tvg-id="TVUniversitaria.bo@SD",TV Universitaria (720p)
+#EXTINF:-1 tvg-id="TVUniversitaria.bo@SD" group-title="Bolivia",TV Universitaria (720p)
 http://190.181.61.93:8000/play/a006/index.m3u8
-#EXTINF:-1 tvg-id="TVUSucre.bo@SD",TVU Sucre (720p)
+#EXTINF:-1 tvg-id="TVUSucre.bo@SD" group-title="Bolivia",TVU Sucre (720p)
 http://190.181.61.93:8000/play/a008/index.m3u8
-#EXTINF:-1 tvg-id="TVUSucre.bo@SD",TVU Sucre (720p)
+#EXTINF:-1 tvg-id="TVUSucre.bo@SD" group-title="Bolivia",TVU Sucre (720p)
 https://edge.enhdtv.com/8214/index.m3u8
-#EXTINF:-1 tvg-id="UMSATVUInternacional.bo@HD",UMSA TVU Internacional (720p)
+#EXTINF:-1 tvg-id="UMSATVUInternacional.bo@HD" group-title="Bolivia",UMSA TVU Internacional (720p)
 https://edge.enhdtv.com/8026/index.m3u8
-#EXTINF:-1 tvg-id="UMSATVUInternacional.bo@HD",UMSA TVU Internacional (720p)
+#EXTINF:-1 tvg-id="UMSATVUInternacional.bo@HD" group-title="Bolivia",UMSA TVU Internacional (720p)
 #EXTVLCOPT:http-referrer=https://tvu.umsa.bo/tvu-internacional
 https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="UMSATVULP.bo@SD",UMSA TVU LP (720p)
+#EXTINF:-1 tvg-id="UMSATVULP.bo@SD" group-title="Bolivia",UMSA TVU LP (720p)
 https://edge.enhdtv.com/8190/index.m3u8
-#EXTINF:-1 tvg-id="UMSATVULP.bo@SD",UMSA TVU LP (720p)
+#EXTINF:-1 tvg-id="UMSATVULP.bo@SD" group-title="Bolivia",UMSA TVU LP (720p)
 #EXTVLCOPT:http-referrer=https://tvu.umsa.bo/en-vivo
 https://live.enhdtv.com:8081/8190/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="UMSATVULP.bo@SD",UMSA TVU LP (576p)
+#EXTINF:-1 tvg-id="UMSATVULP.bo@SD" group-title="Bolivia",UMSA TVU LP (576p)
 http://190.181.61.93:8000/play/a00s/index.m3u8
-#EXTINF:-1 tvg-id="Unifranz.bo@HD",Unifranz (720p)
+#EXTINF:-1 tvg-id="Unifranz.bo@HD" group-title="Bolivia",Unifranz (720p)
 https://edge.enhdtv.com/8192/index.m3u8
-#EXTINF:-1 tvg-id="Unifranz.bo@HD",Unifranz (720p)
+#EXTINF:-1 tvg-id="Unifranz.bo@HD" group-title="Bolivia",Unifranz (720p)
 https://live.enhdtv.com:8081/8192/index.m3u8
-#EXTINF:-1 tvg-id="Unitel.bo@SantaCruz",Unitel (1080p)
+#EXTINF:-1 tvg-id="Unitel.bo@SantaCruz" group-title="Bolivia",Unitel (1080p)
 http://190.181.61.93:8000/play/1909/index.m3u8
-#EXTINF:-1 tvg-id="Unitel.bo@SantaCruz",Unitel (1080p)
+#EXTINF:-1 tvg-id="Unitel.bo@SantaCruz" group-title="Bolivia",Unitel (1080p)
 http://190.181.61.93:8000/play/a00r/index.m3u8
-#EXTINF:-1 tvg-id="Unitel.bo@Cochabamba",Unitel Cochabamba (1080p)
+#EXTINF:-1 tvg-id="Unitel.bo@Cochabamba" group-title="Bolivia",Unitel Cochabamba (1080p)
 http://190.181.61.93:8000/play/1913/index.m3u8
-#EXTINF:-1 tvg-id="",Unitel Cochabamba (720p)
+#EXTINF:-1 tvg-id="" group-title="Bolivia",Unitel Cochabamba (720p)
 https://mdstrm.com/live-stream-playlist/691f2aeb5ac95d286c49af8d.m3u8
-#EXTINF:-1 tvg-id="Unitel.bo@LaPaz",Unitel La Paz (1080p)
+#EXTINF:-1 tvg-id="Unitel.bo@LaPaz" group-title="Bolivia",Unitel La Paz (1080p)
 http://190.181.61.93:8000/play/1910/index.m3u8
-#EXTINF:-1 tvg-id="",Unitel La Paz (720p)
+#EXTINF:-1 tvg-id="" group-title="Bolivia",Unitel La Paz (720p)
 https://mdstrm.com/live-stream-playlist/6928b14aaa768aad947bf65d.m3u8
-#EXTINF:-1 tvg-id="Unitel.bo@LaPaz",Unitel La Paz (576p)
+#EXTINF:-1 tvg-id="Unitel.bo@LaPaz" group-title="Bolivia",Unitel La Paz (576p)
 http://190.181.61.93:8000/play/a00t/index.m3u8
-#EXTINF:-1 tvg-id="",Unitel Santa Cruz (720p)
+#EXTINF:-1 tvg-id="" group-title="Bolivia",Unitel Santa Cruz (720p)
 https://mdstrm.com/live-stream-playlist/692b7e7ac84183fcf9e3462d.m3u8
-#EXTINF:-1 tvg-id="UnivalleTelevision.bo@SD",Univalle Televisión (1080p)
+#EXTINF:-1 tvg-id="UnivalleTelevision.bo@SD" group-title="Bolivia",Univalle Televisión (1080p)
 https://master.tucableip.com/univalletv/playlist.m3u8
-#EXTINF:-1 tvg-id="",UniversidadMayordeSanAndres (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="" group-title="Bolivia",UniversidadMayordeSanAndres (1080p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://tvu.umsa.bo/en-vivo
 https://live.enhdtv.com:8081/8190/index.m3u8
-#EXTINF:-1 tvg-id="UPEATV.bo@SD",UPEA TV (720p)
+#EXTINF:-1 tvg-id="UPEATV.bo@SD" group-title="Bolivia",UPEA TV (720p)
 http://190.181.61.93:8000/play/a00h/index.m3u8
-#EXTINF:-1 tvg-id="UPEATV.bo@SD",UPEA TV (720p)
+#EXTINF:-1 tvg-id="UPEATV.bo@SD" group-title="Bolivia",UPEA TV (720p)
 #EXTVLCOPT:http-referrer=https://tv.upea.bo/live
 https://tvstream.upea.bo/hls/oSs0jSWumTFIIVY97559.m3u8
-#EXTINF:-1 tvg-id="VosTV.bo@SD",Vos TV (720p)
+#EXTINF:-1 tvg-id="VosTV.bo@SD" group-title="Bolivia",Vos TV (720p)
 http://190.181.61.93:8000/play/a00a/index.m3u8
-#EXTINF:-1 tvg-id="VTVCanal17.bo@SD",VTV Canal 17 (720p)
+#EXTINF:-1 tvg-id="VTVCanal17.bo@SD" group-title="Bolivia",VTV Canal 17 (720p)
 http://190.181.61.93:8000/play/a00f/index.m3u8
-#EXTINF:-1 tvg-id="XTOTV.bo@SD",XTOTV (1280p) [Not 24/7]
+#EXTINF:-1 tvg-id="XTOTV.bo@SD" group-title="Bolivia",XTOTV (1280p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://www.sccbolivia.com/
 http://190.104.15.135/0.ts

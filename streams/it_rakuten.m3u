@@ -1,35 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="",BBC Drama Italy (1080p)
+#EXTINF:-1 tvg-id="" group-title="Italy | Rakuten",BBC Drama Italy (1080p)
 https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",BBC Top Gear Italy (1080p)
+#EXTINF:-1 tvg-id="" group-title="Italy | Rakuten",BBC Top Gear Italy (1080p)
 https://amg00793-amg00793c43-rakuten-it-5537.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Brividy Cinema (720p)
+#EXTINF:-1 tvg-id="" group-title="Italy | Rakuten",Brividy Cinema (720p)
 https://ixmediasrl-serially-1-it.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",CG Grandi Film (720p)
+#EXTINF:-1 tvg-id="" group-title="Italy | Rakuten",CG Grandi Film (720p)
 https://cgentertainment-cgtv-1-it.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Grjngo Italy (720p)
+#EXTINF:-1 tvg-id="" group-title="Italy | Rakuten",Grjngo Italy (720p)
 https://amogonetworx-grjngo-6-it.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Hell's Kitchen Italy (1080p)
+#EXTINF:-1 tvg-id="" group-title="Italy | Rakuten",Hell's Kitchen Italy (1080p)
 https://amg00654-itv-amg00654c20-rakuten-it-3615.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Inazuma Eleven Go Italy (720p)
+#EXTINF:-1 tvg-id="" group-title="Italy | Rakuten",Inazuma Eleven Go Italy (720p)
 https://minerva-pictures-inazumaelevengo-1-it.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MrBeanAnimated.uk@IT",Mr. Bean Anime Italy (1080p)
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk@IT" group-title="Italy | Rakuten",Mr. Bean Anime Italy (1080p)
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioItaliaTrendTV.it@HD",Radio Italia Trend (720p)
+#EXTINF:-1 tvg-id="RadioItaliaTrendTV.it@HD" group-title="Italy | Rakuten",Radio Italia Trend (720p)
 https://amg00745-radioitailaspa-radioitalia-rakuten-sucsc.amagi.tv/hls/amagi_hls_data_rakutenAA-radioitalia-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-id="",Risate Dal Sud (720p)
+#EXTINF:-1 tvg-id="" group-title="Italy | Rakuten",Risate Dal Sud (720p)
 https://ixmedia-srl-risatealsud-1-it.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Serially Crime (720p)
+#EXTINF:-1 tvg-id="" group-title="Italy | Rakuten",Serially Crime (720p)
 https://ixmediasrl-seriallycrime-1-it.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Soap Latino (720p)
+#EXTINF:-1 tvg-id="" group-title="Italy | Rakuten",Soap Latino (720p)
 https://fast-channels-network-soaplatino-1-it.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Soap Turco (720p)
+#EXTINF:-1 tvg-id="" group-title="Italy | Rakuten",Soap Turco (720p)
 https://fast-channels-network-soapturco-1-it.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Sportitalia.it@SD",Sport Italia (1080p)
+#EXTINF:-1 tvg-id="Sportitalia.it@SD" group-title="Italy | Rakuten",Sport Italia (1080p)
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
-#EXTINF:-1 tvg-id="",Vevo '90s & '00s Italy (1080p)
+#EXTINF:-1 tvg-id="" group-title="Italy | Rakuten",Vevo '90s & '00s Italy (1080p)
 https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Vevo Pop Italy (1080p)
+#EXTINF:-1 tvg-id="" group-title="Italy | Rakuten",Vevo Pop Italy (1080p)
 https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Yu-Gi-Oh! Italy (1080p)
+#EXTINF:-1 tvg-id="" group-title="Italy | Rakuten",Yu-Gi-Oh! Italy (1080p)
 https://amg01796-amg01796c17-rakuten-it-7492.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh3it-rakutenit/playlist.m3u8

@@ -1,11 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PBSKidsAlaska.us@SD",PBS Kids Alaska (1080p)
+#EXTINF:-1 tvg-id="PBSKidsAlaska.us@SD" group-title="United States | PBS",PBS Kids Alaska (1080p)
 https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
-#EXTINF:-1 tvg-id="PBSKidsMountain.us@SD",PBS Kids Mountain (1080p)
+#EXTINF:-1 tvg-id="PBSKidsMountain.us@SD" group-title="United States | PBS",PBS Kids Mountain (1080p)
 https://livestream.pbskids.org/out/v1/3fe3030a2c8045a3932f4289d9eba3e6/mst.m3u8
-#EXTINF:-1 tvg-id="PBSKidsPacific.us@SD",PBS Kids Pacific (1080p)
+#EXTINF:-1 tvg-id="PBSKidsPacific.us@SD" group-title="United States | PBS",PBS Kids Pacific (1080p)
 https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
-#EXTINF:-1 tvg-id="",PBS MPT Baltimore MD (WMPB) (1080p)
+#EXTINF:-1 tvg-id="" group-title="United States | PBS",PBS MPT Baltimore MD (WMPB) (1080p)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
-#EXTINF:-1 tvg-id="Create.us@WMPT",WMPT-DT2 (PBS Create) (720p)
+#EXTINF:-1 tvg-id="Create.us@WMPT" group-title="United States | PBS",WMPT-DT2 (PBS Create) (720p)
 https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8

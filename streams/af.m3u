@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DunyaNawTV.af@SD",Dunya Naw TV (576p)
+#EXTINF:-1 tvg-id="DunyaNawTV.af@SD" group-title="Afghanistan",Dunya Naw TV (576p)
 https://dunyanhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="EslahTV.af@SD",Eslah TV (720p)
+#EXTINF:-1 tvg-id="EslahTV.af@SD" group-title="Afghanistan",Eslah TV (720p)
 https://eslahtvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="RTA.af@SD",RTA (1080p)
+#EXTINF:-1 tvg-id="RTA.af@SD" group-title="Afghanistan",RTA (1080p)
 https://rta-tv.akamaized.net/live/SD/RTA-1/RTA/RTA-1.m3u8
-#EXTINF:-1 tvg-id="RTAEducation.af@SD",RTA Education (1080p)
+#EXTINF:-1 tvg-id="RTAEducation.af@SD" group-title="Afghanistan",RTA Education (1080p)
 https://rta-tv.akamaized.net/live/SD/RTA-4/RTA/RTA-4.m3u8
-#EXTINF:-1 tvg-id="ShamsTV.af@SD",Shams TV (1080p)
+#EXTINF:-1 tvg-id="ShamsTV.af@SD" group-title="Afghanistan",Shams TV (1080p)
 https://fflive-darya-educationtv.b-cdn.net/master.m3u8
-#EXTINF:-1 tvg-id="TamadonTV.af@SD",Tamadon TV (720p)
+#EXTINF:-1 tvg-id="TamadonTV.af@SD" group-title="Afghanistan",Tamadon TV (720p)
 https://hls.tamadon.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="TOLOnews.af@SD",TOLOnews (720p)
+#EXTINF:-1 tvg-id="TOLOnews.af@SD" group-title="Afghanistan",TOLOnews (720p)
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-tolonews/index.m3u8

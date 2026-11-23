@@ -1,226 +1,226 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1Plus1International.ua@HD",1+1 International HD (720p)
+#EXTINF:-1 tvg-id="1Plus1International.ua@HD" group-title="Ukraine",1+1 International HD (720p)
 https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="1Plus1Marafon.ua@SD",1+1 Marafon (1080p)
+#EXTINF:-1 tvg-id="1Plus1Marafon.ua@SD" group-title="Ukraine",1+1 Marafon (1080p)
 https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8
-#EXTINF:-1 tvg-id="24Kanal.ua@SD",24 Kanal (720p)
+#EXTINF:-1 tvg-id="24Kanal.ua@SD" group-title="Ukraine",24 Kanal (720p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel24.ua@SD",24 Канал (1080p)
+#EXTINF:-1 tvg-id="Channel24.ua@SD" group-title="Ukraine",24 Канал (1080p)
 https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="366TV.ua@SD",36.6 TV
+#EXTINF:-1 tvg-id="366TV.ua@SD" group-title="Ukraine",36.6 TV
 https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="100NEWS.ua@SD",100% News (576p)
+#EXTINF:-1 tvg-id="100NEWS.ua@SD" group-title="Ukraine",100% News (576p)
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1 tvg-id="ApostropheTV.ua@SD",Apostrophe TV (1080p)
+#EXTINF:-1 tvg-id="ApostropheTV.ua@SD" group-title="Ukraine",Apostrophe TV (1080p)
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.2.165/index.m3u8
-#EXTINF:-1 tvg-id="ArmyTV.ua@SD",Army TV (1080p)
+#EXTINF:-1 tvg-id="ArmyTV.ua@SD" group-title="Ukraine",Army TV (1080p)
 https://api-tv.ipnet.ua/api/v1/manifest/2118742632.m3u8
-#EXTINF:-1 tvg-id="ArmyTV.ua@SD",Army TV (576p)
+#EXTINF:-1 tvg-id="ArmyTV.ua@SD" group-title="Ukraine",Army TV (576p)
 http://195.54.52.40/test/index.m3u8
-#EXTINF:-1 tvg-id="Avers.ua@SD",Avers (480p)
+#EXTINF:-1 tvg-id="Avers.ua@SD" group-title="Ukraine",Avers (480p)
 https://avers.pp.ua/hls/efir.m3u8
-#EXTINF:-1 tvg-id="BlackSeaTV.ua@SD",Black Sea TV
+#EXTINF:-1 tvg-id="BlackSeaTV.ua@SD" group-title="Ukraine",Black Sea TV
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.136/index.m3u8
-#EXTINF:-1 tvg-id="Channel5.ua@SD",Channel 5 (1080p)
+#EXTINF:-1 tvg-id="Channel5.ua@SD" group-title="Ukraine",Channel 5 (1080p)
 https://api-tv.ipnet.ua/api/v1/manifest/2118742539.m3u8
-#EXTINF:-1 tvg-id="Channel7Ukraine.ua@SD",Channel 7 Ukraine (720p)
+#EXTINF:-1 tvg-id="Channel7Ukraine.ua@SD" group-title="Ukraine",Channel 7 Ukraine (720p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/7tvod-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="Channel8.ua@SD",Channel 8
+#EXTINF:-1 tvg-id="Channel8.ua@SD" group-title="Ukraine",Channel 8
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.138/index.m3u8
-#EXTINF:-1 tvg-id="CinePlus.ua@SD",Cine+
+#EXTINF:-1 tvg-id="CinePlus.ua@SD" group-title="Ukraine",Cine+
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/playlist.m3u8?master=567&source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2gzMy90cmFja3MtdjJhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1MjM2MiZzdD12bmp2elZKY2JtUndKMkFzY1l0UWpR
-#EXTINF:-1 tvg-id="CinePlusHit.ua@SD",Cine+ Hit
+#EXTINF:-1 tvg-id="CinePlusHit.ua@SD" group-title="Ukraine",Cine+ Hit
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/playlist.m3u8?master=539&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDAvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI3NDUmc3Q9cVZaQ3Vpd2l3UzEwLW1tMzEwMktDZw==
-#EXTINF:-1 tvg-id="CinePlusKids.ua@SD",Cine+ Kids
+#EXTINF:-1 tvg-id="CinePlusKids.ua@SD" group-title="Ukraine",Cine+ Kids
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/playlist.m3u8?master=540&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNzUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI5MDYmc3Q9TUtpMWlxbmN6NGFDdjRrdmN0TkVtUQ==
-#EXTINF:-1 tvg-id="CinePlusLegend.ua@SD",Cine+ Legend
+#EXTINF:-1 tvg-id="CinePlusLegend.ua@SD" group-title="Ukraine",Cine+ Legend
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/playlist.m3u8?master=568&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMzQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTI2Mzgmc3Q9RHdRc3AyN2l6V3J1dllqUEZ5aS1yUQ==
-#EXTINF:-1 tvg-id="Dacha.ua@SD",Dacha (1080p)
+#EXTINF:-1 tvg-id="Dacha.ua@SD" group-title="Ukraine",Dacha (1080p)
 https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="DIM.ua@SD",DIM
+#EXTINF:-1 tvg-id="DIM.ua@SD" group-title="Ukraine",DIM
 https://dash2.antik.sk/live/telekanal_dim/playlist.m3u8
-#EXTINF:-1 tvg-id="DniproTV.ua@SD",DniproTV (1080p)
+#EXTINF:-1 tvg-id="DniproTV.ua@SD" group-title="Ukraine",DniproTV (1080p)
 http://vcdn1.produck.company:1935/out/dtv/playlist.m3u8
-#EXTINF:-1 tvg-id="EkoTV.ua@SD",Eko TV (720p)
+#EXTINF:-1 tvg-id="EkoTV.ua@SD" group-title="Ukraine",Eko TV (720p)
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.1.60/index.m3u8
-#EXTINF:-1 tvg-id="EspresoTV.ua@SD",Espreso TV (1080p)
+#EXTINF:-1 tvg-id="EspresoTV.ua@SD" group-title="Ukraine",Espreso TV (1080p)
 https://api-tv.ipnet.ua/api/v1/manifest/2118742594.m3u8
-#EXTINF:-1 tvg-id="EspresoTV.ua@SD",Espreso TV (1080p)
+#EXTINF:-1 tvg-id="EspresoTV.ua@SD" group-title="Ukraine",Espreso TV (1080p)
 https://dash2.antik.sk/live/test_espresso/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmUALive.ua@SD",FilmUA Live
+#EXTINF:-1 tvg-id="FilmUALive.ua@SD" group-title="Ukraine",FilmUA Live
 https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmUADrama.ua@SD",FilmUADrama
+#EXTINF:-1 tvg-id="FilmUADrama.ua@SD" group-title="Ukraine",FilmUADrama
 https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="FREEDOM.ua@SD",FREEDOM (1080p)
+#EXTINF:-1 tvg-id="FREEDOM.ua@SD" group-title="Ukraine",FREEDOM (1080p)
 https://dash4.antik.sk/live/test_uatv/playlist.m3u8
-#EXTINF:-1 tvg-id="HappyRadioTV.ua@HD",Happy Radio TV (1080p)
+#EXTINF:-1 tvg-id="HappyRadioTV.ua@HD" group-title="Ukraine",Happy Radio TV (1080p)
 https://tv.mediacp.eu:8081/happyradio/index.m3u8
-#EXTINF:-1 tvg-id="HopeChannelUkraine.ua@SD",Hope Channel Ukraine
+#EXTINF:-1 tvg-id="HopeChannelUkraine.ua@SD" group-title="Ukraine",Hope Channel Ukraine
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.172/index.m3u8
-#EXTINF:-1 tvg-id="InterPlus.ua@SD",Inter+ (720p)
+#EXTINF:-1 tvg-id="InterPlus.ua@SD" group-title="Ukraine",Inter+ (720p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="InterPlus.ua@HD",Inter+ HD
+#EXTINF:-1 tvg-id="InterPlus.ua@HD" group-title="Ukraine",Inter+ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h305/stream.m3u8
-#EXTINF:-1 tvg-id="IRT.ua@SD",IRT (720p)
+#EXTINF:-1 tvg-id="IRT.ua@SD" group-title="Ukraine",IRT (720p)
 https://stream.irt.ua/memfs/8fac7cbb-3356-4a03-bb77-4439b727ebd2.m3u8
-#EXTINF:-1 tvg-id="Islandia.ua@SD",Islandia (720p)
+#EXTINF:-1 tvg-id="Islandia.ua@SD" group-title="Ukraine",Islandia (720p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/islandiya-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="ITV.ua@SD",ITV (480p)
+#EXTINF:-1 tvg-id="ITV.ua@SD" group-title="Ukraine",ITV (480p)
 https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
-#EXTINF:-1 tvg-id="ITV.ua@SD",ITV HD (720p)
+#EXTINF:-1 tvg-id="ITV.ua@SD" group-title="Ukraine",ITV HD (720p)
 http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
-#EXTINF:-1 tvg-id="IzmailTV.ua@SD",Izmail TV (384p)
+#EXTINF:-1 tvg-id="IzmailTV.ua@SD" group-title="Ukraine",Izmail TV (384p)
 https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
-#EXTINF:-1 tvg-id="K2.ua@SD",K2 (720p)
+#EXTINF:-1 tvg-id="K2.ua@SD" group-title="Ukraine",K2 (720p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="KonkurentUkraine.ua@SD",Konkurent Ukraine
+#EXTINF:-1 tvg-id="KonkurentUkraine.ua@SD" group-title="Ukraine",Konkurent Ukraine
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://775065.live.tvstitch.com/playlist.m3u8?master=311&source=aHR0cHM6Ly9obHMtY2RuMi5keXZ5YXBwLmNvbS9rb25rdXJlbnQtdWtyYWluYS90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg/dG9rZW49ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmphR0Z1Ym1Wc1gybGtJam96TVRFc0ltTm9ZVzV1Wld4ZmJtRnRaU0k2SWx4MU1EUXhZVngxTURRelpWeDFNRFF6WkZ4MU1EUXpZVngxTURRME0xeDFNRFEwTUZ4MU1EUXpOVngxTURRelpGeDFNRFEwTWlCY2RUQTBNak5jZFRBME0yRmNkVEEwTkRCY2RUQTBNekJjZFRBME5UZGNkVEEwTTJSY2RUQTBNekFpTENKcGNDSTZJakUzT0M0eE16WXVOREl1TWpJd0lpd2lZMjkxYm5SeWVTSTZJbFZyY21GcGJtVWlMQ0oxYzJWeVgybGtJam8zTkRBM0xDSjFjMlZ5WDNCb2IyNWxJam9pS3pNNE1Ea3pNRGsyTnpReU15SXNJblZ6WlhKZmNtOXNaWE1pT2xzaVkyeHBaVzUwSWwwc0luQnliMlpwYkdWZmFXUWlPalkwTnpFc0luTmxjM05wYjI1ZmFXUWlPaUprTURBNU5tSm1PQzB5TTJVMUxUUmxaVFl0WW1Vek5TMW1PREE0TXpsbFpqbGtPRFFpTENKbGJuWnBjbTl1YldWdWRDSTZJbkJ5YjJSMVkzUnBiMjRpTENKd2JHRjBabTl5YlNJNklrUmxjMnQwYjNBaUxDSjFjMlZ5WDJGblpXNTBJam9pVFc5NmFXeHNZVnd2TlM0d0lDaFhhVzVrYjNkeklFNVVJREV3TGpBN0lGZHBialkwT3lCNE5qUXBJRUZ3Y0d4bFYyVmlTMmwwWEM4MU16Y3VNellnS0V0SVZFMU1MQ0JzYVd0bElFZGxZMnR2S1NCRGFISnZiV1ZjTHpFMU1pNHdMakF1TUNCVFlXWmhjbWxjTHpVek55NHpOaUlzSW1WNGNDSTZNVGM0T0RNek5qTXdOSDAuOGgzdDlhSkFPUjh0djhvX0NZWjlDbHVuaTVvZ2NiRVFVcC1SbThlcUMwNA==
-#EXTINF:-1 tvg-id="KusKus.ua@SD",Kus-Kus
+#EXTINF:-1 tvg-id="KusKus.ua@SD" group-title="Ukraine",Kus-Kus
 https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="Kyiv.ua@SD",Kyiv (1080p)
+#EXTINF:-1 tvg-id="Kyiv.ua@SD" group-title="Ukraine",Kyiv (1080p)
 https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
-#EXTINF:-1 tvg-id="Lale.ua@SD",Lale
+#EXTINF:-1 tvg-id="Lale.ua@SD" group-title="Ukraine",Lale
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.50/index.m3u8
-#EXTINF:-1 tvg-id="LuxTV.ua@SD",Lux TV (1080p)
+#EXTINF:-1 tvg-id="LuxTV.ua@SD" group-title="Ukraine",Lux TV (1080p)
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/stream.m3u8?channel=431&m=aHR0cHM6Ly9obHMtY2RuMS5keXZ5YXBwLmNvbS9sdXgtdHYvdmlkZW8ubTN1OD90b2tlbj1leUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKamFHRnVibVZzWDJsa0lqbzBNekVzSW1Ob1lXNXVaV3hmYm1GdFpTSTZJa3hWV0NCVVZpSXNJbWx3SWpvaU1UYzRMakV6Tmk0ME1pNHlNakFpTENKamIzVnVkSEo1SWpvaVZXdHlZV2x1WlNJc0luVnpaWEpmYVdRaU9tNTFiR3dzSW5WelpYSmZjR2h2Ym1VaU9tNTFiR3dzSW5WelpYSmZjbTlzWlhNaU9sdGRMQ0p3Y205bWFXeGxYMmxrSWpwdWRXeHNMQ0p6WlhOemFXOXVYMmxrSWpvaU56ZGpabVUzTkdJdE1USmtaQzAwTTJSbExXSmtNVGt0WVRKaFptUmtabUUwT0RWaElpd2laVzUyYVhKdmJtMWxiblFpT2lKd2NtOWtkV04wYVc5dUlpd2ljR3hoZEdadmNtMGlPaUpFWlhOcmRHOXdJaXdpZFhObGNsOWhaMlZ1ZENJNklrMXZlbWxzYkdGY0x6VXVNQ0FvVjJsdVpHOTNjeUJPVkNBeE1DNHdPeUJYYVc0Mk5Ec2dlRFkwS1NCQmNIQnNaVmRsWWt0cGRGd3ZOVE0zTGpNMklDaExTRlJOVEN3Z2JHbHJaU0JIWldOcmJ5a2dRMmh5YjIxbFhDOHhOVEl1TUM0d0xqQWdVMkZtWVhKcFhDODFNemN1TXpZaUxDSmxlSEFpT2pFM09EZ3hOekk0TnpOOS5GV2NmZDBhOV93dEVONmozWS1GaFNFYzFjbV9uamh1VVZmWjhiZzVLcG84
-#EXTINF:-1 tvg-id="Mega.ua@SD",Mega (720p)
+#EXTINF:-1 tvg-id="Mega.ua@SD" group-title="Ukraine",Mega (720p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="MegogoMusic.ua@SD",Megogo Music
+#EXTINF:-1 tvg-id="MegogoMusic.ua@SD" group-title="Ukraine",Megogo Music
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8
-#EXTINF:-1 tvg-id="Muzvar.ua@SD",Muzvar (1080p)
+#EXTINF:-1 tvg-id="Muzvar.ua@SD" group-title="Ukraine",Muzvar (1080p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="MyUkrainaPlus.ua@SD",My Ukraina+
+#EXTINF:-1 tvg-id="MyUkrainaPlus.ua@SD" group-title="Ukraine",My Ukraina+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://api-tv.ipnet.ua/api/v1/manifest/2118742680.m3u8
-#EXTINF:-1 tvg-id="NASHEMusic.ua@SD",NASHE Music (720p)
+#EXTINF:-1 tvg-id="NASHEMusic.ua@SD" group-title="Ukraine",NASHE Music (720p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="NTN.ua@SD",NTN (1080i)
+#EXTINF:-1 tvg-id="NTN.ua@SD" group-title="Ukraine",NTN (1080i)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="OTV.ua@SD",OTV (576p)
+#EXTINF:-1 tvg-id="OTV.ua@SD" group-title="Ukraine",OTV (576p)
 https://stream.otv.ua/memfs/028e5947-073f-4b4e-a47f-70e59ca3ee36.m3u8
-#EXTINF:-1 tvg-id="Pershyi.ua@SD",Pershyi (1080p)
+#EXTINF:-1 tvg-id="Pershyi.ua@SD" group-title="Ukraine",Pershyi (1080p)
 https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
-#EXTINF:-1 tvg-id="PixelTV.ua@SD",Pixel TV (720p)
+#EXTINF:-1 tvg-id="PixelTV.ua@SD" group-title="Ukraine",Pixel TV (720p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="PTV.ua@SD",PTV (720p)
+#EXTINF:-1 tvg-id="PTV.ua@SD" group-title="Ukraine",PTV (720p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="RadaTV.ua@SD",Rada TV (720p)
+#EXTINF:-1 tvg-id="RadaTV.ua@SD" group-title="Ukraine",Rada TV (720p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="RAZ3.ua@SD",RAZ 3 (720p)
+#EXTINF:-1 tvg-id="RAZ3.ua@SD" group-title="Ukraine",RAZ 3 (720p)
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/playlist.m3u8?master=180&source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g2NS90cmFja3MtdjJhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDcxMDcwMCZzdD1MXzZYc2M4elNra3RCaWYyVzU1dWF3
-#EXTINF:-1 tvg-id="RAZ3International.ua@SD",RAZ 3 International
+#EXTINF:-1 tvg-id="RAZ3International.ua@SD" group-title="Ukraine",RAZ 3 International
 https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RenomeTV.ua@SD",Renome (576p)
+#EXTINF:-1 tvg-id="RenomeTV.ua@SD" group-title="Ukraine",Renome (576p)
 http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
-#EXTINF:-1 tvg-id="Rybalka.ua@SD",Rybalka (1080p)
+#EXTINF:-1 tvg-id="Rybalka.ua@SD" group-title="Ukraine",Rybalka (1080p)
 https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8
-#EXTINF:-1 tvg-id="Simon.ua@SD",Simon (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="Simon.ua@SD" group-title="Ukraine",Simon (720p) [Geo-blocked]
 https://hls.simon.ua/live-HD/live/playlist.m3u8
-#EXTINF:-1 tvg-id="SK1.ua@SD",SK 1 (720p)
+#EXTINF:-1 tvg-id="SK1.ua@SD" group-title="Ukraine",SK 1 (720p)
 http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
-#EXTINF:-1 tvg-id="Sonce.ua@SD",Sonce
+#EXTINF:-1 tvg-id="Sonce.ua@SD" group-title="Ukraine",Sonce
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.165/index.m3u8
-#EXTINF:-1 tvg-id="SoncePlus.ua@SD",Sonce+
+#EXTINF:-1 tvg-id="SoncePlus.ua@SD" group-title="Ukraine",Sonce+
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/playlist.m3u8?master=1103&source=aHR0cDovLzE3Ni4xMjIuMTI1LjIzOjcwMDAvY2g0My90cmFja3MtdjFhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTU3LjEyOC4yMzYuMjIzJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDc1NTE0NiZzdD02SC1HSlEtemw4X1NCQjMzRjVLTUpn
-#EXTINF:-1 tvg-id="Svarozhychy.ua@SD",Svarozhychy (1080p)
+#EXTINF:-1 tvg-id="Svarozhychy.ua@SD" group-title="Ukraine",Svarozhychy (1080p)
 http://svarozhichi.cdn-03.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8
-#EXTINF:-1 tvg-id="TBNUkraine.us@SD",TBN Україна (720p)
+#EXTINF:-1 tvg-id="TBNUkraine.us@SD" group-title="Ukraine",TBN Україна (720p)
 https://5d23269b3ec0c.streamlock.net/WEB_Ukraine24/ngrp:Ukraine24.stream-adaptive/playlist.m3u8
-#EXTINF:-1 tvg-id="TelekanalRAI.ua@SD",Telekanal RAI (480p)
+#EXTINF:-1 tvg-id="TelekanalRAI.ua@SD" group-title="Ukraine",Telekanal RAI (480p)
 https://stream.rai.ua/rai/stream.m3u8
-#EXTINF:-1 tvg-id="TelekanalRAI.ua@SD",Telekanal RAI
+#EXTINF:-1 tvg-id="TelekanalRAI.ua@SD" group-title="Ukraine",Telekanal RAI
 http://92.253.233.136/uploads/playlist.m3u8
-#EXTINF:-1 tvg-id="TISTV.ua@SD",TIS TV (720p)
+#EXTINF:-1 tvg-id="TISTV.ua@SD" group-title="Ukraine",TIS TV (720p)
 https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
-#EXTINF:-1 tvg-id="Rivne1.ua@SD",TV Rivne 1 (720p)
+#EXTINF:-1 tvg-id="Rivne1.ua@SD" group-title="Ukraine",TV Rivne 1 (720p)
 https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="TVA.ua@SD",TVA (576p)
+#EXTINF:-1 tvg-id="TVA.ua@SD" group-title="Ukraine",TVA (576p)
 http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8
-#EXTINF:-1 tvg-id="TVA.ua@SD",TVA (576p)
+#EXTINF:-1 tvg-id="TVA.ua@SD" group-title="Ukraine",TVA (576p)
 https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="ViasatExplore.ua@SD",Viasat Explore
+#EXTINF:-1 tvg-id="ViasatExplore.ua@SD" group-title="Ukraine",Viasat Explore
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/playlist.m3u8?master=79&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMyOTgmc3Q9eWVMNVRuX0tiUlAwVWd0UjctYTBMZw==
-#EXTINF:-1 tvg-id="ViasatHistory.ua@SD",Viasat History
+#EXTINF:-1 tvg-id="ViasatHistory.ua@SD" group-title="Ukraine",Viasat History
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/playlist.m3u8?master=78&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ==
-#EXTINF:-1 tvg-id="ViasatKino.ua@SD",Viasat Kino
+#EXTINF:-1 tvg-id="ViasatKino.ua@SD" group-title="Ukraine",Viasat Kino
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/playlist.m3u8?master=104&source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR
-#EXTINF:-1 tvg-id="ViasatKinoAction.ua@SD",Viasat Kino Action
+#EXTINF:-1 tvg-id="ViasatKinoAction.ua@SD" group-title="Ukraine",Viasat Kino Action
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/playlist.m3u8?master=105&source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg/bGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn
-#EXTINF:-1 tvg-id="ViasatKinoComedy.ua@SD",Viasat Kino Comedy
+#EXTINF:-1 tvg-id="ViasatKinoComedy.ua@SD" group-title="Ukraine",Viasat Kino Comedy
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/playlist.m3u8?master=249&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ==
-#EXTINF:-1 tvg-id="ViasatKino.ua@Romania",Viasat Kino Romania
+#EXTINF:-1 tvg-id="ViasatKino.ua@Romania" group-title="Ukraine",Viasat Kino Romania
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8
-#EXTINF:-1 tvg-id="ViasatKinoWorld.ua@SD",Viasat Kino World
+#EXTINF:-1 tvg-id="ViasatKinoWorld.ua@SD" group-title="Ukraine",Viasat Kino World
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/playlist.m3u8?master=102&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ==
-#EXTINF:-1 tvg-id="ViasatNature.ua@SD",Viasat Nature
+#EXTINF:-1 tvg-id="ViasatNature.ua@SD" group-title="Ukraine",Viasat Nature
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/playlist.m3u8?master=77&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMxMTAmc3Q9dTZrbUNadl9LWlpqMllkWVJRbDVBdw==
-#EXTINF:-1 tvg-id="ViasatSerial.ua@HD",Viasat Serial
+#EXTINF:-1 tvg-id="ViasatSerial.ua@HD" group-title="Ukraine",Viasat Serial
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/playlist.m3u8?master=599&source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw==
-#EXTINF:-1 tvg-id="Glas.ua@SD",Глас (576p)
+#EXTINF:-1 tvg-id="Glas.ua@SD" group-title="Ukraine",Глас (576p)
 http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
-#EXTINF:-1 tvg-id="NTKTV.ua@SD",НТК ТВ (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="NTKTV.ua@SD" group-title="Ukraine",НТК ТВ (1080p) [Not 24/7]
 https://stream.ntktv.ua/s/ntk/ntk.m3u8
-#EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua@SD",Общественное Независимое Телевидение (576p)
+#EXTINF:-1 tvg-id="ObshchestvennoeNezavisimoeTelevidenie.ua@SD" group-title="Ukraine",Общественное Независимое Телевидение (576p)
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
-#EXTINF:-1 tvg-id="OrbitaTV.ua@SD",Орбіта ТВ (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="OrbitaTV.ua@SD" group-title="Ukraine",Орбіта ТВ (360p) [Not 24/7]
 http://ftp.orbita.dn.ua/hls/orbita.m3u8
-#EXTINF:-1 tvg-id="PervyygorodskoyOdessa.ua@SD",Первый Городской (Одесса) (576p)
+#EXTINF:-1 tvg-id="PervyygorodskoyOdessa.ua@SD" group-title="Ukraine",Первый Городской (Одесса) (576p)
 http://91.194.79.46:8081/stream2/channel2/playlist.m3u8
-#EXTINF:-1 tvg-id="PervyygorodskoyOdessa.ua@SD",Первый городской (Одесса) (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="PervyygorodskoyOdessa.ua@SD" group-title="Ukraine",Первый городской (Одесса) (1080p) [Not 24/7]
 http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
-#EXTINF:-1 tvg-id="SK1.ua@SD",СК1 Житомир (720p)
+#EXTINF:-1 tvg-id="SK1.ua@SD" group-title="Ukraine",СК1 Житомир (720p)
 http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="SferaTV.ua@SD",Сфера ТВ (720p)
+#EXTINF:-1 tvg-id="SferaTV.ua@SD" group-title="Ukraine",Сфера ТВ (720p)
 http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="SferaTV.ua@SD",Сфера-ТВ (720p)
+#EXTINF:-1 tvg-id="SferaTV.ua@SD" group-title="Ukraine",Сфера-ТВ (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 https://cdn10.live-tv.cloud/sferarv/sferarv-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="TVA.ua@SD",ТВА (Чернiвцi) (576p)
+#EXTINF:-1 tvg-id="TVA.ua@SD" group-title="Ukraine",ТВА (Чернiвцi) (576p)
 http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="TVA.ua@SD",ТВА (Чернiвцi) (576p)
+#EXTINF:-1 tvg-id="TVA.ua@SD" group-title="Ukraine",ТВА (Чернiвцi) (576p)
 http://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="Reporter.ua@SD",Телеканал Репортер Одесса (720p)
+#EXTINF:-1 tvg-id="Reporter.ua@SD" group-title="Ukraine",Телеканал Репортер Одесса (720p)
 http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8

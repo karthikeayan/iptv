@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="360.ru@SD",360° (1080p)
+#EXTINF:-1 tvg-id="360.ru@SD" group-title="Russia | Smotrim",360° (1080p)
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="360News.ru@SD",360° Новости (1080p)
+#EXTINF:-1 tvg-id="360News.ru@SD" group-title="Russia | Smotrim",360° Новости (1080p)
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTRPlaneta.ru@Europe",RTR Planeta Europe (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RTRPlaneta.ru@Europe" group-title="Russia | Smotrim",RTR Planeta Europe (720p) [Geo-blocked]
 https://stream.smotrim.ru/hls/planeta_rtr_euro/playlist.m3u8?entity=channel&id=510&sign=5c0ac65d75140fac2fd938d77c92138d
-#EXTINF:-1 tvg-id="RTRPlaneta.ru@US",RTR Planeta USA (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RTRPlaneta.ru@US" group-title="Russia | Smotrim",RTR Planeta USA (720p) [Geo-blocked]
 https://stream.smotrim.ru/hls/planeta_rtr_usa/playlist.m3u8?entity=channel&id=513&sign=3ac5d8e2db71ef7fc3d4becbff7512d8
-#EXTINF:-1 tvg-id="RTRPlaneta.ru@Asia",Russia RTR Asia (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RTRPlaneta.ru@Asia" group-title="Russia | Smotrim",Russia RTR Asia (720p) [Geo-blocked]
 https://stream.smotrim.ru/hls/planeta_rtr_asia/playlist.m3u8?entity=channel&id=511&sign=d1fe06cd922b67e412719536998fa43d
-#EXTINF:-1 tvg-id="RTRPlaneta.ru@CIS",Russia RTR CIS (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="RTRPlaneta.ru@CIS" group-title="Russia | Smotrim",Russia RTR CIS (720p) [Geo-blocked]
 https://stream.smotrim.ru/hls/planeta_rtr_sng/playlist.m3u8?entity=channel&id=512&sign=2abaa592de074d65809a10b6bacc4410
-#EXTINF:-1 tvg-id="BigAsia.ru@SD",Большая Азия (720p)
+#EXTINF:-1 tvg-id="BigAsia.ru@SD" group-title="Russia | Smotrim",Большая Азия (720p)
 https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="VmesteRF.ru@SD",Вместе РФ (1080p)
+#EXTINF:-1 tvg-id="VmesteRF.ru@SD" group-title="Russia | Smotrim",Вместе РФ (1080p)
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="OTVPrim.ru@SD",ОТВ Приморье (720p)
+#EXTINF:-1 tvg-id="OTVPrim.ru@SD" group-title="Russia | Smotrim",ОТВ Приморье (720p)
 https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SmotrimChestnyyDetektiv.ru@SD",Смотрим Честный Детектив (1080p)
+#EXTINF:-1 tvg-id="SmotrimChestnyyDetektiv.ru@SD" group-title="Russia | Smotrim",Смотрим Честный Детектив (1080p)
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Surgut24.ru@SD",СургутИнформТВ
+#EXTINF:-1 tvg-id="Surgut24.ru@SD" group-title="Russia | Smotrim",СургутИнформТВ
 https://sitv.ru/vgtrk/stv.m3u8
-#EXTINF:-1 tvg-id="TelekanalKrasnodar.ru@HD",Телеканал Краснодар (1080p)
+#EXTINF:-1 tvg-id="TelekanalKrasnodar.ru@HD" group-title="Russia | Smotrim",Телеканал Краснодар (1080p)
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Tolk.ru@HD",Толк (720p)
+#EXTINF:-1 tvg-id="Tolk.ru@HD" group-title="Russia | Smotrim",Толк (720p)
 https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="UgraTV.ru@SD",Югра (1080p)
+#EXTINF:-1 tvg-id="UgraTV.ru@SD" group-title="Russia | Smotrim",Югра (1080p)
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8

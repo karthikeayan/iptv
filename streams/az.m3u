@@ -1,63 +1,63 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AnewZTV.az",AnewZ TV
+#EXTINF:-1 tvg-id="AnewZTV.az" group-title="Azerbaijan",AnewZ TV
 http://svln.li/anewz.m3u8
-#EXTINF:-1 tvg-id="AnewZTV.az",AnewZ TV
+#EXTINF:-1 tvg-id="AnewZTV.az" group-title="Azerbaijan",AnewZ TV
 #EXTVLCOPT:http-referrer=https://cdn.maksnet.tv/em/cubesanewz-secure/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://edge-rs-01.maksnet.tv/cubesanewz-secure/smil:cubesanewz-secure.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="APATV.az",APA TV
+#EXTINF:-1 tvg-id="APATV.az" group-title="Azerbaijan",APA TV
 http://stream.apa.tv/apastream/index.m3u8
-#EXTINF:-1 tvg-id="ARB24.az@SD",ARB 24
+#EXTINF:-1 tvg-id="ARB24.az@SD" group-title="Azerbaijan",ARB 24
 https://operativmm.az/tvs/arb24/stream/index.m3u8
-#EXTINF:-1 tvg-id="AyazTV.az@SD",Ayaz TV
+#EXTINF:-1 tvg-id="AyazTV.az@SD" group-title="Azerbaijan",Ayaz TV
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
-#EXTINF:-1 tvg-id="AyazTV.az@SD",Ayaz TV
+#EXTINF:-1 tvg-id="AyazTV.az@SD" group-title="Azerbaijan",Ayaz TV
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/720p/720p.m3u8
-#EXTINF:-1 tvg-id="AyazTV.az@SD",Ayaz TV
+#EXTINF:-1 tvg-id="AyazTV.az@SD" group-title="Azerbaijan",Ayaz TV
 https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/1080p/1080p.m3u8
-#EXTINF:-1 tvg-id="AzTV.az@SD",Az TV
+#EXTINF:-1 tvg-id="AzTV.az@SD" group-title="Azerbaijan",Az TV
 https://operativmm.az/tvs/az/stream9/index.m3u8
-#EXTINF:-1 tvg-id="AzTV.az@SD",Az TV
+#EXTINF:-1 tvg-id="AzTV.az@SD" group-title="Azerbaijan",Az TV
 https://stream8.cinerama.uz/1455/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="AzstarTV.az@HD",Azstar TV
+#EXTINF:-1 tvg-id="AzstarTV.az@HD" group-title="Azerbaijan",Azstar TV
 https://live.livestreamtv.ca/azstar/amlst:azstar/playlist.m3u8
-#EXTINF:-1 tvg-id="BakuTV.az",Baku TV
+#EXTINF:-1 tvg-id="BakuTV.az" group-title="Azerbaijan",Baku TV
 https://rtmp.baku.tv/hls/bakutv.m3u8
-#EXTINF:-1 tvg-id="BakuTV.az",Baku TV
+#EXTINF:-1 tvg-id="BakuTV.az" group-title="Azerbaijan",Baku TV
 https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
-#EXTINF:-1 tvg-id="BalacanTV.az@SD",Balacan TV
+#EXTINF:-1 tvg-id="BalacanTV.az@SD" group-title="Azerbaijan",Balacan TV
 https://v2.catcast.tv/content/50634/seg-25745099-v1-a1/index.m3u8
-#EXTINF:-1 tvg-id="DigiNetCinema.az@SD",DigiNet Cinema [Geo-blocked]
+#EXTINF:-1 tvg-id="DigiNetCinema.az@SD" group-title="Azerbaijan",DigiNet Cinema [Geo-blocked]
 https://a8.radyotelekom.com.tr:3276/stream/play.m3u8
-#EXTINF:-1 tvg-id="ELTV.az",EL TV [Not 24/7]
+#EXTINF:-1 tvg-id="ELTV.az" group-title="Azerbaijan",EL TV [Not 24/7]
 https://live.eltv.az/live/eltv/playlist.m3u8
-#EXTINF:-1 tvg-id="FTV.az@SD",FTV
+#EXTINF:-1 tvg-id="FTV.az@SD" group-title="Azerbaijan",FTV
 https://stream.ftv.az/live/ftv.m3u8
-#EXTINF:-1 tvg-id="GunAZTV.az@SD",GunAZ TV
+#EXTINF:-1 tvg-id="GunAZTV.az@SD" group-title="Azerbaijan",GunAZ TV
 https://tv.gunaz.tv/hls/live.m3u8
-#EXTINF:-1 tvg-id="Kanal65Music.az@SD",Kanal 65 Music
+#EXTINF:-1 tvg-id="Kanal65Music.az@SD" group-title="Azerbaijan",Kanal 65 Music
 https://v2.catcast.tv/content/47437/seg-25409996-v1-a1/index.m3u8
-#EXTINF:-1 tvg-id="KapazTV.az",Kapaz TV [Geo-blocked]
+#EXTINF:-1 tvg-id="KapazTV.az" group-title="Azerbaijan",Kapaz TV [Geo-blocked]
 http://85.132.78.122:8050/hls/stream/index.m3u8
-#EXTINF:-1 tvg-id="MusicAzerbaijan.az@SD",Music Azerbaijan
+#EXTINF:-1 tvg-id="MusicAzerbaijan.az@SD" group-title="Azerbaijan",Music Azerbaijan
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/playlist.m3u8
-#EXTINF:-1 tvg-id="NowMusicAZ.az@SD",Now Music AZ
+#EXTINF:-1 tvg-id="NowMusicAZ.az@SD" group-title="Azerbaijan",Now Music AZ
 https://v2.catcast.tv/content/48694/seg-25410024-v1-a1/index.m3u8
-#EXTINF:-1 tvg-id="SesTV.az",Ses TV [Geo-blocked]
+#EXTINF:-1 tvg-id="SesTV.az" group-title="Azerbaijan",Ses TV [Geo-blocked]
 http://145.239.37.125:20458/maksimtv/maksimtv/chunklist_w1215296059.m3u8
-#EXTINF:-1 tvg-id="ShirvanTV.az@SD",Shirvan TV
+#EXTINF:-1 tvg-id="ShirvanTV.az@SD" group-title="Azerbaijan",Shirvan TV
 https://a8.radyotelekom.com.tr/p/3326/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="ShowPlusTV.az",Show Plus TV
+#EXTINF:-1 tvg-id="ShowPlusTV.az" group-title="Azerbaijan",Show Plus TV
 https://rtmp.showplus.tv/hls/myshow.m3u8
-#EXTINF:-1 tvg-id="SonUmidTV.az@SD",Son Umid TV
+#EXTINF:-1 tvg-id="SonUmidTV.az@SD" group-title="Azerbaijan",Son Umid TV
 https://cdn-sonumidtv.yayin.com.tr/sonumidtv/sonumidtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="SpaceTV.az",Space TV
+#EXTINF:-1 tvg-id="SpaceTV.az" group-title="Azerbaijan",Space TV
 https://operativmm.az/tvs/space/stream8/index.m3u8
-#EXTINF:-1 tvg-id="UlduzMusicAZ.az@SD",Ulduz Music AZ
+#EXTINF:-1 tvg-id="UlduzMusicAZ.az@SD" group-title="Azerbaijan",Ulduz Music AZ
 https://v2.catcast.tv/content/50265/seg-25409976-v1-a1/index.m3u8
-#EXTINF:-1 tvg-id="VilayetTV.az",Vilayet TV
+#EXTINF:-1 tvg-id="VilayetTV.az" group-title="Azerbaijan",Vilayet TV
 https://nl.livekadeh.com/hls2/vilayet.m3u8
-#EXTINF:-1 tvg-id="VostokTV.az@SD",Vostok TV [Geo-blocked]
+#EXTINF:-1 tvg-id="VostokTV.az@SD" group-title="Azerbaijan",Vostok TV [Geo-blocked]
 http://911play.ru:3456/live/VostokSite/cdnVostaoc911tv123456/489.m3u8
-#EXTINF:-1 tvg-id="ZahraTV.az@SD",Zahra TV
+#EXTINF:-1 tvg-id="ZahraTV.az@SD" group-title="Azerbaijan",Zahra TV
 https://ak.imamhussein.live/alzahratvlive/alzahra.smil/playlist.m3u8

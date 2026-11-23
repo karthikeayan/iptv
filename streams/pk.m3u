@@ -1,71 +1,71 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="24NewsHD.pk@SD",24 News HD
+#EXTINF:-1 tvg-id="24NewsHD.pk@SD" group-title="Pakistan",24 News HD
 https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8
-#EXTINF:-1 tvg-id="APlusTV.pk@SD",A-Plus TV
+#EXTINF:-1 tvg-id="APlusTV.pk@SD" group-title="Pakistan",A-Plus TV
 https://cdn4.mjunoon.tv:8087/streamtest/118M/chunks.m3u8
-#EXTINF:-1 tvg-id="ABNNews.pk@SD",ABN News (360p)
+#EXTINF:-1 tvg-id="ABNNews.pk@SD" group-title="Pakistan",ABN News (360p)
 https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
-#EXTINF:-1 tvg-id="aurLifeHD.pk@SD",aurLife HD (614p)
+#EXTINF:-1 tvg-id="aurLifeHD.pk@SD" group-title="Pakistan",aurLife HD (614p)
 http://124.109.47.101/hls/stream1.m3u8
-#EXTINF:-1 tvg-id="CapitalTV.pk@SD",Capital TV
+#EXTINF:-1 tvg-id="CapitalTV.pk@SD" group-title="Pakistan",Capital TV
 https://cdn4.mjunoon.tv:8087/streamtest/111M/chunks.m3u8
-#EXTINF:-1 tvg-id="CartoonNetwork.pk@SD",Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork.pk@SD" group-title="Pakistan",Cartoon Network
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
-#EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD",Discover Pakistan (1080p)
+#EXTINF:-1 tvg-id="DiscoverPakistan.pk@SD" group-title="Pakistan",Discover Pakistan (1080p)
 https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
-#EXTINF:-1 tvg-id="FalakTV.pk@SD",Falak TV
+#EXTINF:-1 tvg-id="FalakTV.pk@SD" group-title="Pakistan",Falak TV
 https://falak.rst.ae/index.m3u8
-#EXTINF:-1 tvg-id="FazalTV.pk@SD",Fazal TV (1080p)
+#EXTINF:-1 tvg-id="FazalTV.pk@SD" group-title="Pakistan",Fazal TV (1080p)
 http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="GraceNetwork.pk@SD",Grace Network (720p)
+#EXTINF:-1 tvg-id="GraceNetwork.pk@SD" group-title="Pakistan",Grace Network (720p)
 https://livecdn.live247stream.com/grace/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="HumTV.pk@HD",Hum TV (720p)
+#EXTINF:-1 tvg-id="HumTV.pk@HD" group-title="Pakistan",Hum TV (720p)
 https://g4wlkwx8l23a-hls-live.5centscdn.com/HUM/271ddf829afeece44d8732757fba1a66.sdp/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="HumTV.pk@SD",Hum TV SD
+#EXTINF:-1 tvg-id="HumTV.pk@SD" group-title="Pakistan",Hum TV SD
 https://cdn4.mjunoon.tv:8087/streamtest/82M/chunks.m3u8
-#EXTINF:-1 tvg-id="IsaacTV.pk@SD",Isaac TV (720p)
+#EXTINF:-1 tvg-id="IsaacTV.pk@SD" group-title="Pakistan",Isaac TV (720p)
 https://livecdn.live247stream.com/isaac/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="JeremiahTV.pk@SD",Jeremiah TV (720p)
+#EXTINF:-1 tvg-id="JeremiahTV.pk@SD" group-title="Pakistan",Jeremiah TV (720p)
 https://x.streamablecloud.com/stream/hls/jeremiahtv/index.m3u8
-#EXTINF:-1 tvg-id="JeremiahTV.pk@SD",Jeremiah TV
+#EXTINF:-1 tvg-id="JeremiahTV.pk@SD" group-title="Pakistan",Jeremiah TV
 https://x.streamablecloud.com/stream/hls/jeremiahtv/1_2/index.m3u8
-#EXTINF:-1 tvg-id="JooMusic.pk@SD",JooMusic (720p)
+#EXTINF:-1 tvg-id="JooMusic.pk@SD" group-title="Pakistan",JooMusic (720p)
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="JoshuaTV.pk@SD",Joshua TV (720p)
+#EXTINF:-1 tvg-id="JoshuaTV.pk@SD" group-title="Pakistan",Joshua TV (720p)
 https://livecdn.live247stream.com/joshua/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KingTV.pk@SD",King TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="KingTV.pk@SD" group-title="Pakistan",King TV (720p) [Not 24/7]
 https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8
-#EXTINF:-1 tvg-id="KTNNews.pk@SD",KTN News (360p)
+#EXTINF:-1 tvg-id="KTNNews.pk@SD" group-title="Pakistan",KTN News (360p)
 https://vodzong.mjunoon.tv:8087/streamtest/KTNNews-151/playlist.m3u8
-#EXTINF:-1 tvg-id="KTNNews.pk@SD",KTN News
+#EXTINF:-1 tvg-id="KTNNews.pk@SD" group-title="Pakistan",KTN News
 https://cdn4.mjunoon.tv:8087/streamtest/151M/chunks.m3u8
-#EXTINF:-1 tvg-id="MNews.pk@SD",M News (1080p)
+#EXTINF:-1 tvg-id="MNews.pk@SD" group-title="Pakistan",M News (1080p)
 https://cdn.rabta.stream/M-News/index.m3u8
-#EXTINF:-1 tvg-id="MSports.pk@SD",M Sports
+#EXTINF:-1 tvg-id="MSports.pk@SD" group-title="Pakistan",M Sports
 https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MSports.pk@SD",M Sports
+#EXTINF:-1 tvg-id="MSports.pk@SD" group-title="Pakistan",M Sports
 https://cdn.rabta.stream/M-Sports/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="MadaniChannelEnglish.pk@SD",Madani Channel English (720p)
+#EXTINF:-1 tvg-id="MadaniChannelEnglish.pk@SD" group-title="Pakistan",Madani Channel English (720p)
 https://streaming.madanichannel.tv/static/streaming-playlists/hls/c6a600b0-82cb-454a-8953-2bb2bb372edc/master.m3u8
-#EXTINF:-1 tvg-id="MasalaTV.pk@SD",Masala TV
+#EXTINF:-1 tvg-id="MasalaTV.pk@SD" group-title="Pakistan",Masala TV
 https://cdn4.mjunoon.tv:8087/streamtest/81M/chunks.m3u8
-#EXTINF:-1 tvg-id="Minimax.pk@SD",Minimax (360p)
+#EXTINF:-1 tvg-id="Minimax.pk@SD" group-title="Pakistan",Minimax (360p)
 https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
-#EXTINF:-1 tvg-id="NeoNews.pk@SD",Neo News (1080p)
+#EXTINF:-1 tvg-id="NeoNews.pk@SD" group-title="Pakistan",Neo News (1080p)
 https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8
-#EXTINF:-1 tvg-id="NewsOne.pk@SD",News One (720p)
+#EXTINF:-1 tvg-id="NewsOne.pk@SD" group-title="Pakistan",News One (720p)
 https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
-#EXTINF:-1 tvg-id="PaighamTelevision.pk@SD",Paigham Television (576p)
+#EXTINF:-1 tvg-id="PaighamTelevision.pk@SD" group-title="Pakistan",Paigham Television (576p)
 https://samitaorigin.tangotv.in/PAIGAMTV/SAMITAORIGIN/index.m3u8
-#EXTINF:-1 tvg-id="PaighanTV.pk@SD",Paighan TV
+#EXTINF:-1 tvg-id="PaighanTV.pk@SD" group-title="Pakistan",Paighan TV
 https://cdn4.mjunoon.tv:8087/streamtest/107M/chunks.m3u8
-#EXTINF:-1 tvg-id="PraiseTV.pk@SD",Praise TV (720p)
+#EXTINF:-1 tvg-id="PraiseTV.pk@SD" group-title="Pakistan",Praise TV (720p)
 https://livecdn.live247stream.com/praise/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PraiseTV.pk@SD",Praise TV (720p)
+#EXTINF:-1 tvg-id="PraiseTV.pk@SD" group-title="Pakistan",Praise TV (720p)
 https://pixelsmedia.live/livepraisetv/index.m3u8
-#EXTINF:-1 tvg-id="SamaaTV.pk@SD",Samaa TV (576p)
+#EXTINF:-1 tvg-id="SamaaTV.pk@SD" group-title="Pakistan",Samaa TV (576p)
 https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8
-#EXTINF:-1 tvg-id="SuchTV.pk@SD",Such TV (1080p)
+#EXTINF:-1 tvg-id="SuchTV.pk@SD" group-title="Pakistan",Such TV (1080p)
 https://video.primexsports.com/suchnews/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ZindagiTV.pk@SD",Zindagi TV (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="ZindagiTV.pk@SD" group-title="Pakistan",Zindagi TV (576p) [Not 24/7]
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8

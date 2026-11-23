@@ -1,39 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BBCDrama.uk@Spain",BBC Drama (1080p)
+#EXTINF:-1 tvg-id="BBCDrama.uk@Spain" group-title="Spain | Rakuten",BBC Drama (1080p)
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Beyblade en Español (1080p)
+#EXTINF:-1 tvg-id="" group-title="Spain | Rakuten",Beyblade en Español (1080p)
 https://amg01796-amg01796c8-rakuten-es-5333.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-beybladees-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTNSpanish.cn@SD",CGTN Spanish (1080p)
+#EXTINF:-1 tvg-id="CGTNSpanish.cn@SD" group-title="Spain | Rakuten",CGTN Spanish (1080p)
 https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
-#EXTINF:-1 tvg-id="",Crímenes Reales (1080p)
+#EXTINF:-1 tvg-id="" group-title="Spain | Rakuten",Crímenes Reales (1080p)
 https://amg01796-amg01796c13-rakuten-gb-6739.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Grjngo Spain (720p)
+#EXTINF:-1 tvg-id="" group-title="Spain | Rakuten",Grjngo Spain (720p)
 https://amogo-networx-grjngopelculasdeloeste-1-es.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Ideas en 5 minutos (1080p)
+#EXTINF:-1 tvg-id="" group-title="Spain | Rakuten",Ideas en 5 minutos (1080p)
 https://soul-5mincraftspa-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LoneStar.us@SD",Lone Star (1080p)
+#EXTINF:-1 tvg-id="LoneStar.us@SD" group-title="Spain | Rakuten",Lone Star (1080p)
 https://lonestar-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MrBeanAnimated.uk@ES",Mr. Bean Anime Spain (1080p)
+#EXTINF:-1 tvg-id="MrBeanAnimated.uk@ES" group-title="Spain | Rakuten",Mr. Bean Anime Spain (1080p)
 https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-id="MyTimeMovieNetwork.es@SD",MyTime movie network Spain (1080p)
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.es@SD" group-title="Spain | Rakuten",MyTime movie network Spain (1080p)
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NatureTime.ca@ES",Nature Time (1080p)
+#EXTINF:-1 tvg-id="NatureTime.ca@ES" group-title="Spain | Rakuten",Nature Time (1080p)
 https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",TOP Barça Spain (1080p)
+#EXTINF:-1 tvg-id="" group-title="Spain | Rakuten",TOP Barça Spain (1080p)
 https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="VevoLatino.us@SD",Vevo Latino (1080p)
+#EXTINF:-1 tvg-id="VevoLatino.us@SD" group-title="Spain | Rakuten",Vevo Latino (1080p)
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="",Vevo Pop Spain (1080p)
+#EXTINF:-1 tvg-id="" group-title="Spain | Rakuten",Vevo Pop Spain (1080p)
 https://amg00056-amg00056c10-rakuten-es-3242.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Wonder.uk@SD",Wonder (1080p)
+#EXTINF:-1 tvg-id="Wonder.uk@SD" group-title="Spain | Rakuten",Wonder (1080p)
 https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="YuGiOhenespanol.us@SD",Yu-Gi-Oh! en espanol (1080p)
+#EXTINF:-1 tvg-id="YuGiOhenespanol.us@SD" group-title="Spain | Rakuten",Yu-Gi-Oh! en espanol (1080p)
 https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugiohees-rakutenes/playlist.m3u8
-#EXTINF:-1 tvg-id="CineFriki.es@SD",Zylo Cine Friki (1080p)
+#EXTINF:-1 tvg-id="CineFriki.es@SD" group-title="Spain | Rakuten",Zylo Cine Friki (1080p)
 https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
-#EXTINF:-1 tvg-id="CineFriki.es@SD",Zylo Cine Friki (1080p)
+#EXTINF:-1 tvg-id="CineFriki.es@SD" group-title="Spain | Rakuten",Zylo Cine Friki (1080p)
 https://zylo-cinefriki-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CineWestern.es@SD",Zylo Cine Western (1080p)
+#EXTINF:-1 tvg-id="CineWestern.es@SD" group-title="Spain | Rakuten",Zylo Cine Western (1080p)
 https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
-#EXTINF:-1 tvg-id="TodoNovelas.es@SD",Zylo Todo Novelas (1080p)
+#EXTINF:-1 tvg-id="TodoNovelas.es@SD" group-title="Spain | Rakuten",Zylo Todo Novelas (1080p)
 https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8

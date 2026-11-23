@@ -1,37 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4Kurd.fr@SD",4 Kurd
+#EXTINF:-1 tvg-id="4Kurd.fr@SD" group-title="France | Persiana",4 Kurd
 https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaCinema.fr@SD",Persiana Cinema
+#EXTINF:-1 tvg-id="PersianaCinema.fr@SD" group-title="France | Persiana",Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaComedy.fr@SD",Persiana Comedy
+#EXTINF:-1 tvg-id="PersianaComedy.fr@SD" group-title="France | Persiana",Persiana Comedy
 https://comedyhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaDocs.fr@HD",Persiana Docs
+#EXTINF:-1 tvg-id="PersianaDocs.fr@HD" group-title="France | Persiana",Persiana Docs
 https://scihls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaFamily.fr@SD",Persiana Family
+#EXTINF:-1 tvg-id="PersianaFamily.fr@SD" group-title="France | Persiana",Persiana Family
 https://familyhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaFight.fr@HD",Persiana Fight
+#EXTINF:-1 tvg-id="PersianaFight.fr@HD" group-title="France | Persiana",Persiana Fight
 https://fighthls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaFolk.fr@HD",Persiana Folk
+#EXTINF:-1 tvg-id="PersianaFolk.fr@HD" group-title="France | Persiana",Persiana Folk
 https://sonhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaIranian.fr@SD",Persiana Iranian
+#EXTINF:-1 tvg-id="PersianaIranian.fr@SD" group-title="France | Persiana",Persiana Iranian
 https://irhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaJunior.fr@SD",Persiana Junior
+#EXTINF:-1 tvg-id="PersianaJunior.fr@SD" group-title="France | Persiana",Persiana Junior
 https://junhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaKorea.fr@SD",Persiana Korea
+#EXTINF:-1 tvg-id="PersianaKorea.fr@SD" group-title="France | Persiana",Persiana Korea
 https://korhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaMedical.fr@SD",Persiana Medical
+#EXTINF:-1 tvg-id="PersianaMedical.fr@SD" group-title="France | Persiana",Persiana Medical
 https://phd2hls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="4Music.fr@SD",Persiana Music
+#EXTINF:-1 tvg-id="4Music.fr@SD" group-title="France | Persiana",Persiana Music
 https://musichls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaNostalgia.fr@SD",Persiana Nostalgia
+#EXTINF:-1 tvg-id="PersianaNostalgia.fr@SD" group-title="France | Persiana",Persiana Nostalgia
 https://noshls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaPlus.fr@SD",Persiana Plus
+#EXTINF:-1 tvg-id="PersianaPlus.fr@SD" group-title="France | Persiana",Persiana Plus
 https://euhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaSeries.fr@HD",Persiana Series
+#EXTINF:-1 tvg-id="PersianaSeries.fr@HD" group-title="France | Persiana",Persiana Series
 https://onehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaTravel.fr@SD",Persiana Travel
+#EXTINF:-1 tvg-id="PersianaTravel.fr@SD" group-title="France | Persiana",Persiana Travel
 https://ptravelhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaTurkiye.fr@SD",Persiana Turkiye
+#EXTINF:-1 tvg-id="PersianaTurkiye.fr@SD" group-title="France | Persiana",Persiana Turkiye
 https://turkhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="PersianaVibe.fr@HD",Persiana Vibe
+#EXTINF:-1 tvg-id="PersianaVibe.fr@HD" group-title="France | Persiana",Persiana Vibe
 https://raphls.persiana.live/hls/stream.m3u8
