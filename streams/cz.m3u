@@ -22,8 +22,6 @@ http://88.212.15.50/live/test_ct24_hevc/playlist.m3u8
 http://88.212.15.50/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CTDecko.cz@SD",ČT:D/ČT art (1080p)
 http://88.212.15.50/live/ct_art_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="CurrentTimeTV.cz@SD",Current Time TV (576p)
-http://stream.mcquack.net/384/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.cz@SD",Discovery Channel
 http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.cz@SD",Disney Channel
@@ -110,8 +108,6 @@ https://dash2.antik.sk/live/test_ocko_black/playlist.m3u8
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 #EXTINF:-1 tvg-id="OckoGold.cz@SD",Óčko Gold (540p)
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
-#EXTINF:-1 tvg-id="OckoGold.cz@SD",Óčko Gold (540p) [Geo-blocked]
-https://ocko-live.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OckoStar.cz@SD",Ocko Star
 https://dash4.antik.sk/live/test_ocko_star/playlist.m3u8
 #EXTINF:-1 tvg-id="PlzenTV.cz@SD",Plzeň TV (1080p)
@@ -143,12 +139,8 @@ http://88.212.15.50/live/test_prima_star_hevc_25p/playlist.m3u8
 http://88.212.15.50/live/prima_zoom_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroMusicTV.cz@SD",Retro Music Television (360p)
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-id="RetroMusicTV.cz@SD",Retro Music TV (360p)
-http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="RetroMusicTV.cz@SD",RetroMusicTV (360p)
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTMPlus.cz@SD",RTM Plus (720p) [Not 24/7]
-https://www.rtmplus.cz/live/1-playlist.m3u8
 #EXTINF:-1 tvg-id="SlagerMuzika.cz@SD",Slager Muzika
 https://stream-23.mazana.tv/slagrmuzika.m3u8s
 #EXTINF:-1 tvg-id="SlagerOriginal.cz@SD",Slager Original
@@ -167,12 +159,6 @@ http://88.212.7.14/live/sport1_cz_avc_25p/playlist.m3u8
 http://88.212.15.50/live/test_sport_2/playlist.m3u8
 #EXTINF:-1 tvg-id="Sport2.cz@HD",Sport2 HD
 http://88.212.7.14/live/sport2_cz_avc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="SportyTV.cz@SD",Sporty TV
-https://dash2.antik.sk/live/sporty_tv/index.m3u8
-#EXTINF:-1 tvg-id="TelevizePrerov.cz@SD",Televize Prerov (1080p) [Geo-blocked]
-#EXTVLCOPT:http-referrer=https://tvprerov.cz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 OPR/132.0.0.0
-https://173.212.247.21/live/tvprerov.m3u8
 #EXTINF:-1 tvg-id="TelevizeSeznam.cz@SD",Televize Seznam (1080p)
 http://88.212.15.50/live/test_seznam_hevc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC.cz@SD",TLC

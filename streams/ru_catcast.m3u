@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="VitalDrive.ru@HD",VITAL Drive
-https://autopilot.catcast.tv/content/37909/index.m3u8
-#EXTINF:-1 tvg-id="VitalDrive.ru@HD",VITAL Drive
-https://tv.a21network.ru/stream/37909/index.m3u8
-#EXTINF:-1 tvg-id="Detskoekino.ru@International",Детское кино International [Not 24/7]
-https://autopilot.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1 tvg-id="Kino1.ru@International",Кино 1 International [Not 24/7]
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 tvg-id="Kino1.ru@International",Кино 1 International [Not 24/7]
@@ -37,8 +31,6 @@ https://cityeden.catcast.tv/content/34185/index.m3u8
 https://cityeden.catcast.tv/content/41331/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenKinoMistika.ru@HD",Сити Эдем КиноМистика [Not 24/7]
 https://cityeden.catcast.tv/content/40783/index.m3u8
-#EXTINF:-1 tvg-id="CityEdenKinoSemya.ru@HD",Сити Эдем КиноСемья [Not 24/7]
-https://v2.catcast.tv/content/38128/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenKinoFantastika.ru@HD",Сити Эдем КиноФантастика [Not 24/7]
 https://cityeden.catcast.tv/content/45268/index.m3u8
 #EXTINF:-1 tvg-id="CityEdenKinoAction.ru@HD",Сити Эдем КиноЭкшен [Not 24/7]

@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4TVNews.in@SD",4TV News (576p)
-https://cdn.pishow.tv/ott/live/1007/master.m3u8
 #EXTINF:-1 tvg-id="9XJhakaas.in@SD",9X Jhakaas (576p)
 https://cdn.pishow.tv/ott/live/6/master.m3u8
 #EXTINF:-1 tvg-id="10TV.in@SD",10 TV (576p)
@@ -37,8 +35,6 @@ https://cdn.pishow.tv/ott/live/957/master.m3u8
 https://cdn.pishow.tv/ott/live/10/master.m3u8
 #EXTINF:-1 tvg-id="DDBihar.in@SD",DD Bihar (720p)
 https://cdn.pishow.tv/ott/live/35/master.m3u8
-#EXTINF:-1 tvg-id="DDChhattisgarh.in@SD",DD Chhattisgarh (720p)
-https://cdn.pishow.tv/ott/live/15/master.m3u8
 #EXTINF:-1 tvg-id="DDIndia.in@SD",DD India (no logo) (576p)
 https://cdn.pishow.tv/ott/live/23/master.m3u8
 #EXTINF:-1 tvg-id="DDKisan.in@SD",DD Kisan (720p)
@@ -163,8 +159,6 @@ https://cdn.pishow.tv/ott/live/230/master.m3u8
 https://cdn.pishow.tv/ott/live/276/master.m3u8
 #EXTINF:-1 tvg-id="SwadeshNews.in@SD",Swadesh News (720p)
 https://cdn.pishow.tv/ott/live/465/master.m3u8
-#EXTINF:-1 tvg-id="SwarajExpressSMBC.in@SD",Swaraj Express SMBC (720p) [Not 24/7]
-https://cdn.pishow.tv/ott/live/477/master.m3u8
 #EXTINF:-1 tvg-id="TNews.in@SD",T News (720p)
 https://cdn.pishow.tv/ott/live/385/master.m3u8
 #EXTINF:-1 tvg-id="TehzeebTV.in@SD",Tehzeeb TV (720p)
